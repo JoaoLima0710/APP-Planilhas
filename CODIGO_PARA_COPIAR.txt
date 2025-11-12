@@ -1,0 +1,298 @@
+import { createClient } from "npm:@supabase/supabase-js@2.81.0";
+import * as XLSX from "npm:xlsx@0.18.5";
+
+const corsHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
+};
+
+const BATCH_SIZE = 100; // Reduced for memory optimization
+
+function parseCSV(text: string): any[] {
+  const parsedRows: any[] = [];
+  let lines = text.split(/\r?\n/);
+  while (lines.length > 0 && !lines[lines.length - 1].trim()) lines.pop();
+  if (lines.length < 2) return parsedRows;
+
+  function parseCSVLine(line: string): string[] {
+    const result: string[] = [];
+    let current = "";
+    let insideQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        if (insideQuotes && line[i+1] === '"') { current += '"'; i++; }
+        else insideQuotes = !insideQuotes;
+      } else if (char === ',' && !insideQuotes) {
+        result.push(current.trim().replace(/^"|"$/g, ""));
+        current = "";
+      } else {
+        current += char;
+      }
+    }
+    result.push(current.trim().replace(/^"|"$/g, ""));
+    return result;
+  }
+
+  const headerLine = lines[0];
+  const headers = parseCSVLine(headerLine).map(h => String(h).toUpperCase().trim());
+
+  for (let i = 1; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
+    const values = parseCSVLine(line);
+    if (values.some(v => v)) {
+      const row: any = {};
+      headers.forEach((header, idx) => { row[header] = values[idx] || ""; });
+      parsedRows.push(row);
+    }
+  }
+  return parsedRows;
+}
+
+Deno.serve(async (req: Request) => {
+  if (req.method === "OPTIONS") {
+    return new Response(null, { headers: corsHeaders });
+  }
+
+  try {
+    const authHeader = req.headers.get("Authorization");
+    if (!authHeader) {
+      return new Response(
+        JSON.stringify({ success: false, error: "Unauthorized" }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    const supabaseUrl = Deno.env.get("SUPABASE_URL");
+    const supabaseServiceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+
+    if (!supabaseUrl || !supabaseServiceKey) {
+      throw new Error("Missing Supabase config");
+    }
+
+    const supabase = createClient(supabaseUrl, supabaseServiceKey);
+
+    const formData = await req.formData();
+    const file = formData.get("file") as File;
+
+    if (!file) {
+      return new Response(
+        JSON.stringify({ success: false, error: "No file provided" }),
+        { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    console.log(`Processing file: ${file.name}, type: ${file.type}, size: ${file.size} bytes`);
+
+    // Limit file size to 5MB to avoid memory issues
+    const MAX_FILE_SIZE = 5 * 1024 * 1024; // 5MB
+    if (file.size > MAX_FILE_SIZE) {
+      throw new Error(`Arquivo muito grande (${(file.size / 1024 / 1024).toFixed(2)}MB). Máximo: 5MB`);
+    }
+
+    let rows: any[] = [];
+    const fileName = file.name.toLowerCase();
+
+    if (fileName.endsWith('.csv')) {
+      const text = await file.text();
+      rows = parseCSV(text);
+    } else if (fileName.endsWith('.xlsx') || fileName.endsWith('.xls') || fileName.endsWith('.ods')) {
+      // Process in chunks to avoid memory limit
+      const CHUNK_SIZE = 100; // Process 100 rows at a time
+      const arrayBuffer = await file.arrayBuffer();
+      
+      console.log(`Reading workbook from ${arrayBuffer.byteLength} bytes...`);
+      
+      // Read with minimal memory footprint
+      const workbook = XLSX.read(new Uint8Array(arrayBuffer), { 
+        type: 'array',
+        dense: true,
+        sheetRows: 5000, // Only read first 5000 rows
+      });
+
+      let sheetName = workbook.SheetNames[0];
+      const patientsSheet = workbook.SheetNames.find(name => 
+        name.toLowerCase().includes('paciente') || name.toLowerCase().includes('patient')
+      );
+      if (patientsSheet) sheetName = patientsSheet;
+
+      console.log(`Using sheet: ${sheetName}`);
+      const worksheet = workbook.Sheets[sheetName];
+      
+      if (!worksheet['!ref']) {
+        throw new Error("Planilha vazia");
+      }
+      
+      const range = XLSX.utils.decode_range(worksheet['!ref']);
+      const totalRows = range.e.r - range.s.r;
+      console.log(`Total rows in sheet: ${totalRows}`);
+
+      // Get headers
+      const headerRow: any[] = [];
+      for (let col = range.s.c; col <= range.e.c; col++) {
+        const cell = worksheet[XLSX.utils.encode_cell({ r: range.s.r, c: col })];
+        headerRow.push(cell ? String(cell.v || "").toUpperCase().trim() : "");
+      }
+      console.log(`Headers: ${headerRow.join(", ")}`);
+
+      // Process in chunks and insert to DB incrementally
+      let processedRows = 0;
+      const rowsPerBatch = CHUNK_SIZE;
+      
+      for (let startRow = range.s.r + 1; startRow <= range.e.r; startRow += rowsPerBatch) {
+        const endRow = Math.min(startRow + rowsPerBatch - 1, range.e.r);
+        const chunkRows: any[] = [];
+        
+        for (let row = startRow; row <= endRow; row++) {
+          const rowData: any = {};
+          let hasData = false;
+          
+          for (let col = range.s.c; col <= range.e.c; col++) {
+            const cellAddress = XLSX.utils.encode_cell({ r: row, c: col });
+            const cell = worksheet[cellAddress];
+            const header = headerRow[col - range.s.c];
+            
+            if (header) {
+              const value = cell ? String(cell.v || "").trim() : "";
+              rowData[header] = value;
+              if (value) hasData = true;
+            }
+          }
+
+          if (hasData) {
+            chunkRows.push(rowData);
+          }
+        }
+        
+        // Process this chunk immediately
+        rows.push(...chunkRows);
+        processedRows += chunkRows.length;
+        
+        // Force garbage collection hint
+        if (processedRows % 500 === 0) {
+          console.log(`Processed ${processedRows} rows so far...`);
+        }
+      }
+      
+      console.log(`Finished reading ${processedRows} rows`);
+      
+      // Clear workbook
+      workbook.Sheets = {};
+    } else {
+      throw new Error("Formato de arquivo não suportado. Use CSV, XLSX, XLS ou ODS");
+    }
+
+    console.log(`Parsed ${rows.length} rows`);
+
+    const patientsToUpsert: any[] = [];
+    const rowErrors: { rowIndex: number; message: string }[] = [];
+
+    rows.forEach((row, idx) => {
+      const prontuarioRaw = row["PRONTUÁRIO"] || row["PRONTUARIO"] || row["PRONT"] || "";
+      const prontuario = String(prontuarioRaw).toUpperCase().trim();
+      const name = String(row["NOME"] || row["NAME"] || "").trim();
+      const faltas = parseInt(String(row["FALTAS"] || row["FALTA"] || "0")) || 0;
+      const sector = String(row["SETOR"] || row["SECTOR"] || "").trim();
+
+      if (!prontuario || !name) {
+        rowErrors.push({ rowIndex: idx + 2, message: "Missing prontuário or name" });
+        return;
+      }
+
+      patientsToUpsert.push({
+        prontuario,
+        name,
+        days_since_last_visit: faltas,
+        sector: sector || null,
+      });
+    });
+
+    let inserted = 0;
+    let errors = rowErrors.length;
+    const errorDetails: string[] = rowErrors.map(e => `Linha ${e.rowIndex}: ${e.message}`);
+
+    for (let i = 0; i < patientsToUpsert.length; i += BATCH_SIZE) {
+      const batch = patientsToUpsert.slice(i, i + BATCH_SIZE);
+      try {
+        const { data: upserted, error } = await supabase.from("patients").upsert(batch, { onConflict: "prontuario" });
+        if (error) {
+          console.error("Batch upsert error:", error);
+          for (const p of batch) {
+            try {
+              const { data: singleData, error: singleErr } = await supabase.from("patients").upsert(p, { onConflict: "prontuario" });
+              if (singleErr) {
+                errors++;
+                errorDetails.push(`Patient ${p.prontuario}: ${singleErr.message}`);
+              } else {
+                inserted += (singleData && singleData.length) ? singleData.length : 1;
+              }
+            } catch (e) {
+              errors++;
+              errorDetails.push(`Patient ${p.prontuario}: ${e instanceof Error ? e.message : String(e)}`);
+            }
+          }
+        } else {
+          inserted += upserted && upserted.length ? upserted.length : batch.length;
+        }
+      } catch (e) {
+        console.error("Unexpected batch error:", e);
+        for (const p of batch) {
+          try {
+            const { data: singleData, error: singleErr } = await supabase.from("patients").upsert(p, { onConflict: "prontuario" });
+            if (singleErr) {
+              errors++;
+              errorDetails.push(`Patient ${p.prontuario}: ${singleErr.message}`);
+            } else {
+              inserted += (singleData && singleData.length) ? singleData.length : 1;
+            }
+          } catch (e2) {
+            errors++;
+            errorDetails.push(`Patient ${p.prontuario}: ${e2 instanceof Error ? e2.message : String(e2)}`);
+          }
+        }
+      }
+    }
+
+    console.log(`Completed. Inserted: ${inserted}, Errors: ${errors}`);
+    if (errorDetails.length > 0) console.log("Error details:", errorDetails.slice(0, 50));
+
+    let dbCount: number | null = null;
+    let sample: any[] | null = null;
+    try {
+      const { count } = await supabase.from('patients').select('*', { count: 'exact' });
+      dbCount = count ?? null;
+      const { data: sampleData } = await supabase.from('patients').select('prontuario,name').limit(5);
+      sample = sampleData ?? null;
+    } catch (e) {
+      console.error('Error fetching confirmation data:', e);
+    }
+
+    return new Response(
+      JSON.stringify({
+        success: true,
+        processed: rows.length,
+        inserted,
+        errors,
+        errorDetails: errorDetails.length ? errorDetails : undefined,
+        total: rows.length,
+        db_count: dbCount,
+        sample,
+      }),
+      { headers: { ...corsHeaders, "Content-Type": "application/json" } }
+    );
+  } catch (error) {
+    console.error("Error details:", error);
+    console.error("Error stack:", error instanceof Error ? error.stack : "No stack");
+    console.error("Error message:", error instanceof Error ? error.message : String(error));
+    
+    return new Response(
+      JSON.stringify({
+        success: false,
+        error: error instanceof Error ? error.message : "Unknown error",
+        details: error instanceof Error ? error.stack : String(error),
+      }),
+      { status: 500, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+    );
+  }
+});

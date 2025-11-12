@@ -1,0 +1,21 @@
+Prontuário,Nome,Dias,Setor,Modalidade,Rotina,UBSF,Endereço Completo,Bairro,Terapeuta,CID
+P001,Paciente 001,45,Psicologia,Individual,Semanal,USF Centro,"Rua A, 123",Centro,João Silva,F41.1
+P002,Paciente 002,60,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 456",Norte,Maria Santos,M54.0
+P003,Paciente 003,30,Psicologia,Individual,Mensal,USF Sul,"Rua C, 789",Sul,Pedro Costa,F32.9
+P004,Paciente 004,90,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua D, 321",Leste,Ana Paula,F80.0
+P005,Paciente 005,15,Psicologia,Grupo,Semanal,USF Centro,"Rua E, 654",Centro,João Silva,F41.0
+P006,Paciente 006,75,Fisioterapia,Individual,Quinzenal,USF Oeste,"Rua F, 987",Oeste,Carlos Mendes,M25.9
+P007,Paciente 007,120,Psicologia,Individual,Mensal,USF Norte,"Rua G, 111",Norte,Maria Santos,F43.1
+P008,Paciente 008,50,Fonoaudiologia,Grupo,Semanal,USF Sul,"Rua H, 222",Sul,Pedro Costa,F80.1
+P009,Paciente 009,35,Psicologia,Individual,Semanal,USF Leste,"Rua I, 333",Leste,Ana Paula,F41.2
+P010,Paciente 010,85,Fisioterapia,Individual,Quinzenal,USF Centro,"Rua J, 444",Centro,João Silva,M54.1
+P011,Paciente 011,25,Psicologia,Grupo,Mensal,USF Oeste,"Rua K, 555",Oeste,Carlos Mendes,F32.8
+P012,Paciente 012,95,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua L, 666",Norte,Maria Santos,F80.2
+P013,Paciente 013,40,Psicologia,Individual,Quinzenal,USF Sul,"Rua M, 777",Sul,Pedro Costa,F41.1
+P014,Paciente 014,70,Fisioterapia,Grupo,Mensal,USF Leste,"Rua N, 888",Leste,Ana Paula,M25.8
+P015,Paciente 015,55,Psicologia,Individual,Semanal,USF Centro,"Rua O, 999",Centro,João Silva,F43.0
+P016,Paciente 016,110,Fonoaudiologia,Individual,Quinzenal,USF Oeste,"Rua P, 101",Oeste,Carlos Mendes,F80.0
+P017,Paciente 017,20,Psicologia,Grupo,Mensal,USF Norte,"Rua Q, 202",Norte,Maria Santos,F41.2
+P018,Paciente 018,80,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 303",Sul,Pedro Costa,M54.2
+P019,Paciente 019,38,Psicologia,Individual,Quinzenal,USF Leste,"Rua S, 404",Leste,Ana Paula,F32.7
+P020,Paciente 020,92,Fonoaudiologia,Grupo,Mensal,USF Centro,"Rua T, 505",Centro,João Silva,F80.1

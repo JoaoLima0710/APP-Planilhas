@@ -1,0 +1,1601 @@
+Prontuário,Nome,Dias,Setor,Modalidade,Rotina,UBSF,Endereço Completo,Bairro,Terapeuta,CID
+P0001,Paciente 0001,7,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 101",Norte,Maria Santos,M54.0
+P0002,Paciente 0002,14,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 102",Sul,Pedro Costa,F32.9
+P0003,Paciente 0003,21,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 103",Leste,Ana Paula,F80.0
+P0004,Paciente 0004,28,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 104",Oeste,Carlos Mendes,F41.0
+P0005,Paciente 0005,35,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 105",Zona Industrial,Lucia Ferreira,M25.9
+P0006,Paciente 0006,42,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 106",Vila Nova,João Silva,F43.1
+P0007,Paciente 0007,49,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 107",Centro,Maria Santos,F80.1
+P0008,Paciente 0008,56,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 108",Norte,Pedro Costa,F41.2
+P0009,Paciente 0009,63,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 109",Sul,Ana Paula,M54.1
+P0010,Paciente 0010,70,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 110",Leste,Carlos Mendes,F41.1
+P0011,Paciente 0011,77,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 111",Oeste,Lucia Ferreira,M54.0
+P0012,Paciente 0012,84,Psicologia,Individual,Semanal,USF Sul,"Rua M, 112",Zona Industrial,João Silva,F32.9
+P0013,Paciente 0013,91,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 113",Vila Nova,Maria Santos,F80.0
+P0014,Paciente 0014,98,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 114",Centro,Pedro Costa,F41.0
+P0015,Paciente 0015,105,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 115",Norte,Ana Paula,M25.9
+P0016,Paciente 0016,112,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 116",Sul,Carlos Mendes,F43.1
+P0017,Paciente 0017,119,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 117",Leste,Lucia Ferreira,F80.1
+P0018,Paciente 0018,126,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 118",Oeste,João Silva,F41.2
+P0019,Paciente 0019,133,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 119",Zona Industrial,Maria Santos,M54.1
+P0020,Paciente 0020,140,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 120",Vila Nova,Pedro Costa,F41.1
+P0021,Paciente 0021,147,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 121",Centro,Ana Paula,M54.0
+P0022,Paciente 0022,154,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 122",Norte,Carlos Mendes,F32.9
+P0023,Paciente 0023,161,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 123",Sul,Lucia Ferreira,F80.0
+P0024,Paciente 0024,168,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 124",Leste,João Silva,F41.0
+P0025,Paciente 0025,175,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 125",Oeste,Maria Santos,M25.9
+P0026,Paciente 0026,182,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 126",Zona Industrial,Pedro Costa,F43.1
+P0027,Paciente 0027,189,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 127",Vila Nova,Ana Paula,F80.1
+P0028,Paciente 0028,196,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 128",Centro,Carlos Mendes,F41.2
+P0029,Paciente 0029,203,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 129",Norte,Lucia Ferreira,M54.1
+P0030,Paciente 0030,210,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 130",Sul,João Silva,F41.1
+P0031,Paciente 0031,217,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 131",Leste,Maria Santos,M54.0
+P0032,Paciente 0032,224,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 132",Oeste,Pedro Costa,F32.9
+P0033,Paciente 0033,231,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 133",Zona Industrial,Ana Paula,F80.0
+P0034,Paciente 0034,238,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 134",Vila Nova,Carlos Mendes,F41.0
+P0035,Paciente 0035,245,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 135",Centro,Lucia Ferreira,M25.9
+P0036,Paciente 0036,252,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 136",Norte,João Silva,F43.1
+P0037,Paciente 0037,259,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 137",Sul,Maria Santos,F80.1
+P0038,Paciente 0038,266,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 138",Leste,Pedro Costa,F41.2
+P0039,Paciente 0039,273,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 139",Oeste,Ana Paula,M54.1
+P0040,Paciente 0040,280,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 140",Zona Industrial,Carlos Mendes,F41.1
+P0041,Paciente 0041,287,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 141",Vila Nova,Lucia Ferreira,M54.0
+P0042,Paciente 0042,294,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 142",Centro,João Silva,F32.9
+P0043,Paciente 0043,301,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 143",Norte,Maria Santos,F80.0
+P0044,Paciente 0044,308,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 144",Sul,Pedro Costa,F41.0
+P0045,Paciente 0045,315,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 145",Leste,Ana Paula,M25.9
+P0046,Paciente 0046,322,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 146",Oeste,Carlos Mendes,F43.1
+P0047,Paciente 0047,329,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 147",Zona Industrial,Lucia Ferreira,F80.1
+P0048,Paciente 0048,336,Psicologia,Individual,Semanal,USF Leste,"Rua I, 148",Vila Nova,João Silva,F41.2
+P0049,Paciente 0049,343,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 149",Centro,Maria Santos,M54.1
+P0050,Paciente 0050,350,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 150",Norte,Pedro Costa,F41.1
+P0051,Paciente 0051,357,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 151",Sul,Ana Paula,M54.0
+P0052,Paciente 0052,364,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 152",Leste,Carlos Mendes,F32.9
+P0053,Paciente 0053,6,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 153",Oeste,Lucia Ferreira,F80.0
+P0054,Paciente 0054,13,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 154",Zona Industrial,João Silva,F41.0
+P0055,Paciente 0055,20,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 155",Vila Nova,Maria Santos,M25.9
+P0056,Paciente 0056,27,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 156",Centro,Pedro Costa,F43.1
+P0057,Paciente 0057,34,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 157",Norte,Ana Paula,F80.1
+P0058,Paciente 0058,41,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 158",Sul,Carlos Mendes,F41.2
+P0059,Paciente 0059,48,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 159",Leste,Lucia Ferreira,M54.1
+P0060,Paciente 0060,55,Psicologia,Individual,Semanal,USF Centro,"Rua A, 160",Oeste,João Silva,F41.1
+P0061,Paciente 0061,62,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 161",Zona Industrial,Maria Santos,M54.0
+P0062,Paciente 0062,69,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 162",Vila Nova,Pedro Costa,F32.9
+P0063,Paciente 0063,76,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 163",Centro,Ana Paula,F80.0
+P0064,Paciente 0064,83,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 164",Norte,Carlos Mendes,F41.0
+P0065,Paciente 0065,90,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 165",Sul,Lucia Ferreira,M25.9
+P0066,Paciente 0066,97,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 166",Leste,João Silva,F43.1
+P0067,Paciente 0067,104,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 167",Oeste,Maria Santos,F80.1
+P0068,Paciente 0068,111,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 168",Zona Industrial,Pedro Costa,F41.2
+P0069,Paciente 0069,118,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 169",Vila Nova,Ana Paula,M54.1
+P0070,Paciente 0070,125,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 170",Centro,Carlos Mendes,F41.1
+P0071,Paciente 0071,132,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 171",Norte,Lucia Ferreira,M54.0
+P0072,Paciente 0072,139,Psicologia,Individual,Semanal,USF Sul,"Rua M, 172",Sul,João Silva,F32.9
+P0073,Paciente 0073,146,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 173",Leste,Maria Santos,F80.0
+P0074,Paciente 0074,153,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 174",Oeste,Pedro Costa,F41.0
+P0075,Paciente 0075,160,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 175",Zona Industrial,Ana Paula,M25.9
+P0076,Paciente 0076,167,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 176",Vila Nova,Carlos Mendes,F43.1
+P0077,Paciente 0077,174,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 177",Centro,Lucia Ferreira,F80.1
+P0078,Paciente 0078,181,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 178",Norte,João Silva,F41.2
+P0079,Paciente 0079,188,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 179",Sul,Maria Santos,M54.1
+P0080,Paciente 0080,195,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 180",Leste,Pedro Costa,F41.1
+P0081,Paciente 0081,202,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 181",Oeste,Ana Paula,M54.0
+P0082,Paciente 0082,209,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 182",Zona Industrial,Carlos Mendes,F32.9
+P0083,Paciente 0083,216,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 183",Vila Nova,Lucia Ferreira,F80.0
+P0084,Paciente 0084,223,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 184",Centro,João Silva,F41.0
+P0085,Paciente 0085,230,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 185",Norte,Maria Santos,M25.9
+P0086,Paciente 0086,237,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 186",Sul,Pedro Costa,F43.1
+P0087,Paciente 0087,244,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 187",Leste,Ana Paula,F80.1
+P0088,Paciente 0088,251,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 188",Oeste,Carlos Mendes,F41.2
+P0089,Paciente 0089,258,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 189",Zona Industrial,Lucia Ferreira,M54.1
+P0090,Paciente 0090,265,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 190",Vila Nova,João Silva,F41.1
+P0091,Paciente 0091,272,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 191",Centro,Maria Santos,M54.0
+P0092,Paciente 0092,279,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 192",Norte,Pedro Costa,F32.9
+P0093,Paciente 0093,286,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 193",Sul,Ana Paula,F80.0
+P0094,Paciente 0094,293,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 194",Leste,Carlos Mendes,F41.0
+P0095,Paciente 0095,300,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 195",Oeste,Lucia Ferreira,M25.9
+P0096,Paciente 0096,307,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 196",Zona Industrial,João Silva,F43.1
+P0097,Paciente 0097,314,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 197",Vila Nova,Maria Santos,F80.1
+P0098,Paciente 0098,321,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 198",Centro,Pedro Costa,F41.2
+P0099,Paciente 0099,328,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 199",Norte,Ana Paula,M54.1
+P0100,Paciente 0100,335,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 200",Sul,Carlos Mendes,F41.1
+P0101,Paciente 0101,342,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 201",Leste,Lucia Ferreira,M54.0
+P0102,Paciente 0102,349,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 202",Oeste,João Silva,F32.9
+P0103,Paciente 0103,356,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 203",Zona Industrial,Maria Santos,F80.0
+P0104,Paciente 0104,363,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 204",Vila Nova,Pedro Costa,F41.0
+P0105,Paciente 0105,5,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 205",Centro,Ana Paula,M25.9
+P0106,Paciente 0106,12,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 206",Norte,Carlos Mendes,F43.1
+P0107,Paciente 0107,19,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 207",Sul,Lucia Ferreira,F80.1
+P0108,Paciente 0108,26,Psicologia,Individual,Semanal,USF Leste,"Rua I, 208",Leste,João Silva,F41.2
+P0109,Paciente 0109,33,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 209",Oeste,Maria Santos,M54.1
+P0110,Paciente 0110,40,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 210",Zona Industrial,Pedro Costa,F41.1
+P0111,Paciente 0111,47,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 211",Vila Nova,Ana Paula,M54.0
+P0112,Paciente 0112,54,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 212",Centro,Carlos Mendes,F32.9
+P0113,Paciente 0113,61,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 213",Norte,Lucia Ferreira,F80.0
+P0114,Paciente 0114,68,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 214",Sul,João Silva,F41.0
+P0115,Paciente 0115,75,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 215",Leste,Maria Santos,M25.9
+P0116,Paciente 0116,82,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 216",Oeste,Pedro Costa,F43.1
+P0117,Paciente 0117,89,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 217",Zona Industrial,Ana Paula,F80.1
+P0118,Paciente 0118,96,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 218",Vila Nova,Carlos Mendes,F41.2
+P0119,Paciente 0119,103,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 219",Centro,Lucia Ferreira,M54.1
+P0120,Paciente 0120,110,Psicologia,Individual,Semanal,USF Centro,"Rua A, 220",Norte,João Silva,F41.1
+P0121,Paciente 0121,117,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 221",Sul,Maria Santos,M54.0
+P0122,Paciente 0122,124,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 222",Leste,Pedro Costa,F32.9
+P0123,Paciente 0123,131,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 223",Oeste,Ana Paula,F80.0
+P0124,Paciente 0124,138,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 224",Zona Industrial,Carlos Mendes,F41.0
+P0125,Paciente 0125,145,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 225",Vila Nova,Lucia Ferreira,M25.9
+P0126,Paciente 0126,152,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 226",Centro,João Silva,F43.1
+P0127,Paciente 0127,159,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 227",Norte,Maria Santos,F80.1
+P0128,Paciente 0128,166,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 228",Sul,Pedro Costa,F41.2
+P0129,Paciente 0129,173,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 229",Leste,Ana Paula,M54.1
+P0130,Paciente 0130,180,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 230",Oeste,Carlos Mendes,F41.1
+P0131,Paciente 0131,187,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 231",Zona Industrial,Lucia Ferreira,M54.0
+P0132,Paciente 0132,194,Psicologia,Individual,Semanal,USF Sul,"Rua M, 232",Vila Nova,João Silva,F32.9
+P0133,Paciente 0133,201,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 233",Centro,Maria Santos,F80.0
+P0134,Paciente 0134,208,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 234",Norte,Pedro Costa,F41.0
+P0135,Paciente 0135,215,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 235",Sul,Ana Paula,M25.9
+P0136,Paciente 0136,222,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 236",Leste,Carlos Mendes,F43.1
+P0137,Paciente 0137,229,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 237",Oeste,Lucia Ferreira,F80.1
+P0138,Paciente 0138,236,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 238",Zona Industrial,João Silva,F41.2
+P0139,Paciente 0139,243,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 239",Vila Nova,Maria Santos,M54.1
+P0140,Paciente 0140,250,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 240",Centro,Pedro Costa,F41.1
+P0141,Paciente 0141,257,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 241",Norte,Ana Paula,M54.0
+P0142,Paciente 0142,264,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 242",Sul,Carlos Mendes,F32.9
+P0143,Paciente 0143,271,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 243",Leste,Lucia Ferreira,F80.0
+P0144,Paciente 0144,278,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 244",Oeste,João Silva,F41.0
+P0145,Paciente 0145,285,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 245",Zona Industrial,Maria Santos,M25.9
+P0146,Paciente 0146,292,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 246",Vila Nova,Pedro Costa,F43.1
+P0147,Paciente 0147,299,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 247",Centro,Ana Paula,F80.1
+P0148,Paciente 0148,306,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 248",Norte,Carlos Mendes,F41.2
+P0149,Paciente 0149,313,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 249",Sul,Lucia Ferreira,M54.1
+P0150,Paciente 0150,320,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 250",Leste,João Silva,F41.1
+P0151,Paciente 0151,327,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 251",Oeste,Maria Santos,M54.0
+P0152,Paciente 0152,334,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 252",Zona Industrial,Pedro Costa,F32.9
+P0153,Paciente 0153,341,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 253",Vila Nova,Ana Paula,F80.0
+P0154,Paciente 0154,348,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 254",Centro,Carlos Mendes,F41.0
+P0155,Paciente 0155,355,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 255",Norte,Lucia Ferreira,M25.9
+P0156,Paciente 0156,362,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 256",Sul,João Silva,F43.1
+P0157,Paciente 0157,4,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 257",Leste,Maria Santos,F80.1
+P0158,Paciente 0158,11,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 258",Oeste,Pedro Costa,F41.2
+P0159,Paciente 0159,18,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 259",Zona Industrial,Ana Paula,M54.1
+P0160,Paciente 0160,25,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 260",Vila Nova,Carlos Mendes,F41.1
+P0161,Paciente 0161,32,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 261",Centro,Lucia Ferreira,M54.0
+P0162,Paciente 0162,39,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 262",Norte,João Silva,F32.9
+P0163,Paciente 0163,46,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 263",Sul,Maria Santos,F80.0
+P0164,Paciente 0164,53,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 264",Leste,Pedro Costa,F41.0
+P0165,Paciente 0165,60,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 265",Oeste,Ana Paula,M25.9
+P0166,Paciente 0166,67,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 266",Zona Industrial,Carlos Mendes,F43.1
+P0167,Paciente 0167,74,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 267",Vila Nova,Lucia Ferreira,F80.1
+P0168,Paciente 0168,81,Psicologia,Individual,Semanal,USF Leste,"Rua I, 268",Centro,João Silva,F41.2
+P0169,Paciente 0169,88,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 269",Norte,Maria Santos,M54.1
+P0170,Paciente 0170,95,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 270",Sul,Pedro Costa,F41.1
+P0171,Paciente 0171,102,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 271",Leste,Ana Paula,M54.0
+P0172,Paciente 0172,109,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 272",Oeste,Carlos Mendes,F32.9
+P0173,Paciente 0173,116,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 273",Zona Industrial,Lucia Ferreira,F80.0
+P0174,Paciente 0174,123,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 274",Vila Nova,João Silva,F41.0
+P0175,Paciente 0175,130,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 275",Centro,Maria Santos,M25.9
+P0176,Paciente 0176,137,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 276",Norte,Pedro Costa,F43.1
+P0177,Paciente 0177,144,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 277",Sul,Ana Paula,F80.1
+P0178,Paciente 0178,151,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 278",Leste,Carlos Mendes,F41.2
+P0179,Paciente 0179,158,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 279",Oeste,Lucia Ferreira,M54.1
+P0180,Paciente 0180,165,Psicologia,Individual,Semanal,USF Centro,"Rua A, 280",Zona Industrial,João Silva,F41.1
+P0181,Paciente 0181,172,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 281",Vila Nova,Maria Santos,M54.0
+P0182,Paciente 0182,179,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 282",Centro,Pedro Costa,F32.9
+P0183,Paciente 0183,186,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 283",Norte,Ana Paula,F80.0
+P0184,Paciente 0184,193,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 284",Sul,Carlos Mendes,F41.0
+P0185,Paciente 0185,200,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 285",Leste,Lucia Ferreira,M25.9
+P0186,Paciente 0186,207,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 286",Oeste,João Silva,F43.1
+P0187,Paciente 0187,214,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 287",Zona Industrial,Maria Santos,F80.1
+P0188,Paciente 0188,221,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 288",Vila Nova,Pedro Costa,F41.2
+P0189,Paciente 0189,228,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 289",Centro,Ana Paula,M54.1
+P0190,Paciente 0190,235,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 290",Norte,Carlos Mendes,F41.1
+P0191,Paciente 0191,242,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 291",Sul,Lucia Ferreira,M54.0
+P0192,Paciente 0192,249,Psicologia,Individual,Semanal,USF Sul,"Rua M, 292",Leste,João Silva,F32.9
+P0193,Paciente 0193,256,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 293",Oeste,Maria Santos,F80.0
+P0194,Paciente 0194,263,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 294",Zona Industrial,Pedro Costa,F41.0
+P0195,Paciente 0195,270,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 295",Vila Nova,Ana Paula,M25.9
+P0196,Paciente 0196,277,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 296",Centro,Carlos Mendes,F43.1
+P0197,Paciente 0197,284,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 297",Norte,Lucia Ferreira,F80.1
+P0198,Paciente 0198,291,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 298",Sul,João Silva,F41.2
+P0199,Paciente 0199,298,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 299",Leste,Maria Santos,M54.1
+P0200,Paciente 0200,305,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 300",Oeste,Pedro Costa,F41.1
+P0201,Paciente 0201,312,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 301",Zona Industrial,Ana Paula,M54.0
+P0202,Paciente 0202,319,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 302",Vila Nova,Carlos Mendes,F32.9
+P0203,Paciente 0203,326,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 303",Centro,Lucia Ferreira,F80.0
+P0204,Paciente 0204,333,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 304",Norte,João Silva,F41.0
+P0205,Paciente 0205,340,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 305",Sul,Maria Santos,M25.9
+P0206,Paciente 0206,347,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 306",Leste,Pedro Costa,F43.1
+P0207,Paciente 0207,354,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 307",Oeste,Ana Paula,F80.1
+P0208,Paciente 0208,361,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 308",Zona Industrial,Carlos Mendes,F41.2
+P0209,Paciente 0209,3,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 309",Vila Nova,Lucia Ferreira,M54.1
+P0210,Paciente 0210,10,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 310",Centro,João Silva,F41.1
+P0211,Paciente 0211,17,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 311",Norte,Maria Santos,M54.0
+P0212,Paciente 0212,24,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 312",Sul,Pedro Costa,F32.9
+P0213,Paciente 0213,31,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 313",Leste,Ana Paula,F80.0
+P0214,Paciente 0214,38,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 314",Oeste,Carlos Mendes,F41.0
+P0215,Paciente 0215,45,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 315",Zona Industrial,Lucia Ferreira,M25.9
+P0216,Paciente 0216,52,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 316",Vila Nova,João Silva,F43.1
+P0217,Paciente 0217,59,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 317",Centro,Maria Santos,F80.1
+P0218,Paciente 0218,66,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 318",Norte,Pedro Costa,F41.2
+P0219,Paciente 0219,73,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 319",Sul,Ana Paula,M54.1
+P0220,Paciente 0220,80,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 320",Leste,Carlos Mendes,F41.1
+P0221,Paciente 0221,87,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 321",Oeste,Lucia Ferreira,M54.0
+P0222,Paciente 0222,94,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 322",Zona Industrial,João Silva,F32.9
+P0223,Paciente 0223,101,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 323",Vila Nova,Maria Santos,F80.0
+P0224,Paciente 0224,108,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 324",Centro,Pedro Costa,F41.0
+P0225,Paciente 0225,115,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 325",Norte,Ana Paula,M25.9
+P0226,Paciente 0226,122,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 326",Sul,Carlos Mendes,F43.1
+P0227,Paciente 0227,129,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 327",Leste,Lucia Ferreira,F80.1
+P0228,Paciente 0228,136,Psicologia,Individual,Semanal,USF Leste,"Rua I, 328",Oeste,João Silva,F41.2
+P0229,Paciente 0229,143,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 329",Zona Industrial,Maria Santos,M54.1
+P0230,Paciente 0230,150,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 330",Vila Nova,Pedro Costa,F41.1
+P0231,Paciente 0231,157,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 331",Centro,Ana Paula,M54.0
+P0232,Paciente 0232,164,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 332",Norte,Carlos Mendes,F32.9
+P0233,Paciente 0233,171,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 333",Sul,Lucia Ferreira,F80.0
+P0234,Paciente 0234,178,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 334",Leste,João Silva,F41.0
+P0235,Paciente 0235,185,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 335",Oeste,Maria Santos,M25.9
+P0236,Paciente 0236,192,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 336",Zona Industrial,Pedro Costa,F43.1
+P0237,Paciente 0237,199,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 337",Vila Nova,Ana Paula,F80.1
+P0238,Paciente 0238,206,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 338",Centro,Carlos Mendes,F41.2
+P0239,Paciente 0239,213,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 339",Norte,Lucia Ferreira,M54.1
+P0240,Paciente 0240,220,Psicologia,Individual,Semanal,USF Centro,"Rua A, 340",Sul,João Silva,F41.1
+P0241,Paciente 0241,227,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 341",Leste,Maria Santos,M54.0
+P0242,Paciente 0242,234,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 342",Oeste,Pedro Costa,F32.9
+P0243,Paciente 0243,241,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 343",Zona Industrial,Ana Paula,F80.0
+P0244,Paciente 0244,248,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 344",Vila Nova,Carlos Mendes,F41.0
+P0245,Paciente 0245,255,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 345",Centro,Lucia Ferreira,M25.9
+P0246,Paciente 0246,262,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 346",Norte,João Silva,F43.1
+P0247,Paciente 0247,269,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 347",Sul,Maria Santos,F80.1
+P0248,Paciente 0248,276,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 348",Leste,Pedro Costa,F41.2
+P0249,Paciente 0249,283,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 349",Oeste,Ana Paula,M54.1
+P0250,Paciente 0250,290,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 350",Zona Industrial,Carlos Mendes,F41.1
+P0251,Paciente 0251,297,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 351",Vila Nova,Lucia Ferreira,M54.0
+P0252,Paciente 0252,304,Psicologia,Individual,Semanal,USF Sul,"Rua M, 352",Centro,João Silva,F32.9
+P0253,Paciente 0253,311,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 353",Norte,Maria Santos,F80.0
+P0254,Paciente 0254,318,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 354",Sul,Pedro Costa,F41.0
+P0255,Paciente 0255,325,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 355",Leste,Ana Paula,M25.9
+P0256,Paciente 0256,332,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 356",Oeste,Carlos Mendes,F43.1
+P0257,Paciente 0257,339,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 357",Zona Industrial,Lucia Ferreira,F80.1
+P0258,Paciente 0258,346,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 358",Vila Nova,João Silva,F41.2
+P0259,Paciente 0259,353,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 359",Centro,Maria Santos,M54.1
+P0260,Paciente 0260,360,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 360",Norte,Pedro Costa,F41.1
+P0261,Paciente 0261,2,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 361",Sul,Ana Paula,M54.0
+P0262,Paciente 0262,9,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 362",Leste,Carlos Mendes,F32.9
+P0263,Paciente 0263,16,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 363",Oeste,Lucia Ferreira,F80.0
+P0264,Paciente 0264,23,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 364",Zona Industrial,João Silva,F41.0
+P0265,Paciente 0265,30,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 365",Vila Nova,Maria Santos,M25.9
+P0266,Paciente 0266,37,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 366",Centro,Pedro Costa,F43.1
+P0267,Paciente 0267,44,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 367",Norte,Ana Paula,F80.1
+P0268,Paciente 0268,51,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 368",Sul,Carlos Mendes,F41.2
+P0269,Paciente 0269,58,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 369",Leste,Lucia Ferreira,M54.1
+P0270,Paciente 0270,65,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 370",Oeste,João Silva,F41.1
+P0271,Paciente 0271,72,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 371",Zona Industrial,Maria Santos,M54.0
+P0272,Paciente 0272,79,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 372",Vila Nova,Pedro Costa,F32.9
+P0273,Paciente 0273,86,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 373",Centro,Ana Paula,F80.0
+P0274,Paciente 0274,93,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 374",Norte,Carlos Mendes,F41.0
+P0275,Paciente 0275,100,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 375",Sul,Lucia Ferreira,M25.9
+P0276,Paciente 0276,107,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 376",Leste,João Silva,F43.1
+P0277,Paciente 0277,114,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 377",Oeste,Maria Santos,F80.1
+P0278,Paciente 0278,121,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 378",Zona Industrial,Pedro Costa,F41.2
+P0279,Paciente 0279,128,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 379",Vila Nova,Ana Paula,M54.1
+P0280,Paciente 0280,135,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 380",Centro,Carlos Mendes,F41.1
+P0281,Paciente 0281,142,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 381",Norte,Lucia Ferreira,M54.0
+P0282,Paciente 0282,149,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 382",Sul,João Silva,F32.9
+P0283,Paciente 0283,156,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 383",Leste,Maria Santos,F80.0
+P0284,Paciente 0284,163,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 384",Oeste,Pedro Costa,F41.0
+P0285,Paciente 0285,170,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 385",Zona Industrial,Ana Paula,M25.9
+P0286,Paciente 0286,177,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 386",Vila Nova,Carlos Mendes,F43.1
+P0287,Paciente 0287,184,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 387",Centro,Lucia Ferreira,F80.1
+P0288,Paciente 0288,191,Psicologia,Individual,Semanal,USF Leste,"Rua I, 388",Norte,João Silva,F41.2
+P0289,Paciente 0289,198,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 389",Sul,Maria Santos,M54.1
+P0290,Paciente 0290,205,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 390",Leste,Pedro Costa,F41.1
+P0291,Paciente 0291,212,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 391",Oeste,Ana Paula,M54.0
+P0292,Paciente 0292,219,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 392",Zona Industrial,Carlos Mendes,F32.9
+P0293,Paciente 0293,226,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 393",Vila Nova,Lucia Ferreira,F80.0
+P0294,Paciente 0294,233,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 394",Centro,João Silva,F41.0
+P0295,Paciente 0295,240,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 395",Norte,Maria Santos,M25.9
+P0296,Paciente 0296,247,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 396",Sul,Pedro Costa,F43.1
+P0297,Paciente 0297,254,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 397",Leste,Ana Paula,F80.1
+P0298,Paciente 0298,261,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 398",Oeste,Carlos Mendes,F41.2
+P0299,Paciente 0299,268,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 399",Zona Industrial,Lucia Ferreira,M54.1
+P0300,Paciente 0300,275,Psicologia,Individual,Semanal,USF Centro,"Rua A, 400",Vila Nova,João Silva,F41.1
+P0301,Paciente 0301,282,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 401",Centro,Maria Santos,M54.0
+P0302,Paciente 0302,289,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 402",Norte,Pedro Costa,F32.9
+P0303,Paciente 0303,296,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 403",Sul,Ana Paula,F80.0
+P0304,Paciente 0304,303,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 404",Leste,Carlos Mendes,F41.0
+P0305,Paciente 0305,310,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 405",Oeste,Lucia Ferreira,M25.9
+P0306,Paciente 0306,317,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 406",Zona Industrial,João Silva,F43.1
+P0307,Paciente 0307,324,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 407",Vila Nova,Maria Santos,F80.1
+P0308,Paciente 0308,331,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 408",Centro,Pedro Costa,F41.2
+P0309,Paciente 0309,338,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 409",Norte,Ana Paula,M54.1
+P0310,Paciente 0310,345,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 410",Sul,Carlos Mendes,F41.1
+P0311,Paciente 0311,352,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 411",Leste,Lucia Ferreira,M54.0
+P0312,Paciente 0312,359,Psicologia,Individual,Semanal,USF Sul,"Rua M, 412",Oeste,João Silva,F32.9
+P0313,Paciente 0313,1,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 413",Zona Industrial,Maria Santos,F80.0
+P0314,Paciente 0314,8,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 414",Vila Nova,Pedro Costa,F41.0
+P0315,Paciente 0315,15,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 415",Centro,Ana Paula,M25.9
+P0316,Paciente 0316,22,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 416",Norte,Carlos Mendes,F43.1
+P0317,Paciente 0317,29,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 417",Sul,Lucia Ferreira,F80.1
+P0318,Paciente 0318,36,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 418",Leste,João Silva,F41.2
+P0319,Paciente 0319,43,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 419",Oeste,Maria Santos,M54.1
+P0320,Paciente 0320,50,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 420",Zona Industrial,Pedro Costa,F41.1
+P0321,Paciente 0321,57,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 421",Vila Nova,Ana Paula,M54.0
+P0322,Paciente 0322,64,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 422",Centro,Carlos Mendes,F32.9
+P0323,Paciente 0323,71,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 423",Norte,Lucia Ferreira,F80.0
+P0324,Paciente 0324,78,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 424",Sul,João Silva,F41.0
+P0325,Paciente 0325,85,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 425",Leste,Maria Santos,M25.9
+P0326,Paciente 0326,92,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 426",Oeste,Pedro Costa,F43.1
+P0327,Paciente 0327,99,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 427",Zona Industrial,Ana Paula,F80.1
+P0328,Paciente 0328,106,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 428",Vila Nova,Carlos Mendes,F41.2
+P0329,Paciente 0329,113,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 429",Centro,Lucia Ferreira,M54.1
+P0330,Paciente 0330,120,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 430",Norte,João Silva,F41.1
+P0331,Paciente 0331,127,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 431",Sul,Maria Santos,M54.0
+P0332,Paciente 0332,134,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 432",Leste,Pedro Costa,F32.9
+P0333,Paciente 0333,141,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 433",Oeste,Ana Paula,F80.0
+P0334,Paciente 0334,148,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 434",Zona Industrial,Carlos Mendes,F41.0
+P0335,Paciente 0335,155,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 435",Vila Nova,Lucia Ferreira,M25.9
+P0336,Paciente 0336,162,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 436",Centro,João Silva,F43.1
+P0337,Paciente 0337,169,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 437",Norte,Maria Santos,F80.1
+P0338,Paciente 0338,176,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 438",Sul,Pedro Costa,F41.2
+P0339,Paciente 0339,183,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 439",Leste,Ana Paula,M54.1
+P0340,Paciente 0340,190,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 440",Oeste,Carlos Mendes,F41.1
+P0341,Paciente 0341,197,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 441",Zona Industrial,Lucia Ferreira,M54.0
+P0342,Paciente 0342,204,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 442",Vila Nova,João Silva,F32.9
+P0343,Paciente 0343,211,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 443",Centro,Maria Santos,F80.0
+P0344,Paciente 0344,218,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 444",Norte,Pedro Costa,F41.0
+P0345,Paciente 0345,225,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 445",Sul,Ana Paula,M25.9
+P0346,Paciente 0346,232,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 446",Leste,Carlos Mendes,F43.1
+P0347,Paciente 0347,239,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 447",Oeste,Lucia Ferreira,F80.1
+P0348,Paciente 0348,246,Psicologia,Individual,Semanal,USF Leste,"Rua I, 448",Zona Industrial,João Silva,F41.2
+P0349,Paciente 0349,253,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 449",Vila Nova,Maria Santos,M54.1
+P0350,Paciente 0350,260,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 450",Centro,Pedro Costa,F41.1
+P0351,Paciente 0351,267,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 451",Norte,Ana Paula,M54.0
+P0352,Paciente 0352,274,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 452",Sul,Carlos Mendes,F32.9
+P0353,Paciente 0353,281,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 453",Leste,Lucia Ferreira,F80.0
+P0354,Paciente 0354,288,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 454",Oeste,João Silva,F41.0
+P0355,Paciente 0355,295,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 455",Zona Industrial,Maria Santos,M25.9
+P0356,Paciente 0356,302,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 456",Vila Nova,Pedro Costa,F43.1
+P0357,Paciente 0357,309,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 457",Centro,Ana Paula,F80.1
+P0358,Paciente 0358,316,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 458",Norte,Carlos Mendes,F41.2
+P0359,Paciente 0359,323,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 459",Sul,Lucia Ferreira,M54.1
+P0360,Paciente 0360,330,Psicologia,Individual,Semanal,USF Centro,"Rua A, 460",Leste,João Silva,F41.1
+P0361,Paciente 0361,337,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 461",Oeste,Maria Santos,M54.0
+P0362,Paciente 0362,344,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 462",Zona Industrial,Pedro Costa,F32.9
+P0363,Paciente 0363,351,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 463",Vila Nova,Ana Paula,F80.0
+P0364,Paciente 0364,358,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 464",Centro,Carlos Mendes,F41.0
+P0365,Paciente 0365,0,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 465",Norte,Lucia Ferreira,M25.9
+P0366,Paciente 0366,7,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 466",Sul,João Silva,F43.1
+P0367,Paciente 0367,14,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 467",Leste,Maria Santos,F80.1
+P0368,Paciente 0368,21,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 468",Oeste,Pedro Costa,F41.2
+P0369,Paciente 0369,28,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 469",Zona Industrial,Ana Paula,M54.1
+P0370,Paciente 0370,35,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 470",Vila Nova,Carlos Mendes,F41.1
+P0371,Paciente 0371,42,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 471",Centro,Lucia Ferreira,M54.0
+P0372,Paciente 0372,49,Psicologia,Individual,Semanal,USF Sul,"Rua M, 472",Norte,João Silva,F32.9
+P0373,Paciente 0373,56,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 473",Sul,Maria Santos,F80.0
+P0374,Paciente 0374,63,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 474",Leste,Pedro Costa,F41.0
+P0375,Paciente 0375,70,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 475",Oeste,Ana Paula,M25.9
+P0376,Paciente 0376,77,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 476",Zona Industrial,Carlos Mendes,F43.1
+P0377,Paciente 0377,84,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 477",Vila Nova,Lucia Ferreira,F80.1
+P0378,Paciente 0378,91,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 478",Centro,João Silva,F41.2
+P0379,Paciente 0379,98,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 479",Norte,Maria Santos,M54.1
+P0380,Paciente 0380,105,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 480",Sul,Pedro Costa,F41.1
+P0381,Paciente 0381,112,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 481",Leste,Ana Paula,M54.0
+P0382,Paciente 0382,119,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 482",Oeste,Carlos Mendes,F32.9
+P0383,Paciente 0383,126,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 483",Zona Industrial,Lucia Ferreira,F80.0
+P0384,Paciente 0384,133,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 484",Vila Nova,João Silva,F41.0
+P0385,Paciente 0385,140,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 485",Centro,Maria Santos,M25.9
+P0386,Paciente 0386,147,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 486",Norte,Pedro Costa,F43.1
+P0387,Paciente 0387,154,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 487",Sul,Ana Paula,F80.1
+P0388,Paciente 0388,161,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 488",Leste,Carlos Mendes,F41.2
+P0389,Paciente 0389,168,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 489",Oeste,Lucia Ferreira,M54.1
+P0390,Paciente 0390,175,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 490",Zona Industrial,João Silva,F41.1
+P0391,Paciente 0391,182,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 491",Vila Nova,Maria Santos,M54.0
+P0392,Paciente 0392,189,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 492",Centro,Pedro Costa,F32.9
+P0393,Paciente 0393,196,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 493",Norte,Ana Paula,F80.0
+P0394,Paciente 0394,203,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 494",Sul,Carlos Mendes,F41.0
+P0395,Paciente 0395,210,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 495",Leste,Lucia Ferreira,M25.9
+P0396,Paciente 0396,217,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 496",Oeste,João Silva,F43.1
+P0397,Paciente 0397,224,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 497",Zona Industrial,Maria Santos,F80.1
+P0398,Paciente 0398,231,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 498",Vila Nova,Pedro Costa,F41.2
+P0399,Paciente 0399,238,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 499",Centro,Ana Paula,M54.1
+P0400,Paciente 0400,245,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 500",Norte,Carlos Mendes,F41.1
+P0401,Paciente 0401,252,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 501",Sul,Lucia Ferreira,M54.0
+P0402,Paciente 0402,259,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 502",Leste,João Silva,F32.9
+P0403,Paciente 0403,266,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 503",Oeste,Maria Santos,F80.0
+P0404,Paciente 0404,273,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 504",Zona Industrial,Pedro Costa,F41.0
+P0405,Paciente 0405,280,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 505",Vila Nova,Ana Paula,M25.9
+P0406,Paciente 0406,287,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 506",Centro,Carlos Mendes,F43.1
+P0407,Paciente 0407,294,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 507",Norte,Lucia Ferreira,F80.1
+P0408,Paciente 0408,301,Psicologia,Individual,Semanal,USF Leste,"Rua I, 508",Sul,João Silva,F41.2
+P0409,Paciente 0409,308,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 509",Leste,Maria Santos,M54.1
+P0410,Paciente 0410,315,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 510",Oeste,Pedro Costa,F41.1
+P0411,Paciente 0411,322,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 511",Zona Industrial,Ana Paula,M54.0
+P0412,Paciente 0412,329,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 512",Vila Nova,Carlos Mendes,F32.9
+P0413,Paciente 0413,336,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 513",Centro,Lucia Ferreira,F80.0
+P0414,Paciente 0414,343,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 514",Norte,João Silva,F41.0
+P0415,Paciente 0415,350,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 515",Sul,Maria Santos,M25.9
+P0416,Paciente 0416,357,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 516",Leste,Pedro Costa,F43.1
+P0417,Paciente 0417,364,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 517",Oeste,Ana Paula,F80.1
+P0418,Paciente 0418,6,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 518",Zona Industrial,Carlos Mendes,F41.2
+P0419,Paciente 0419,13,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 519",Vila Nova,Lucia Ferreira,M54.1
+P0420,Paciente 0420,20,Psicologia,Individual,Semanal,USF Centro,"Rua A, 520",Centro,João Silva,F41.1
+P0421,Paciente 0421,27,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 521",Norte,Maria Santos,M54.0
+P0422,Paciente 0422,34,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 522",Sul,Pedro Costa,F32.9
+P0423,Paciente 0423,41,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 523",Leste,Ana Paula,F80.0
+P0424,Paciente 0424,48,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 524",Oeste,Carlos Mendes,F41.0
+P0425,Paciente 0425,55,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 525",Zona Industrial,Lucia Ferreira,M25.9
+P0426,Paciente 0426,62,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 526",Vila Nova,João Silva,F43.1
+P0427,Paciente 0427,69,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 527",Centro,Maria Santos,F80.1
+P0428,Paciente 0428,76,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 528",Norte,Pedro Costa,F41.2
+P0429,Paciente 0429,83,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 529",Sul,Ana Paula,M54.1
+P0430,Paciente 0430,90,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 530",Leste,Carlos Mendes,F41.1
+P0431,Paciente 0431,97,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 531",Oeste,Lucia Ferreira,M54.0
+P0432,Paciente 0432,104,Psicologia,Individual,Semanal,USF Sul,"Rua M, 532",Zona Industrial,João Silva,F32.9
+P0433,Paciente 0433,111,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 533",Vila Nova,Maria Santos,F80.0
+P0434,Paciente 0434,118,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 534",Centro,Pedro Costa,F41.0
+P0435,Paciente 0435,125,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 535",Norte,Ana Paula,M25.9
+P0436,Paciente 0436,132,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 536",Sul,Carlos Mendes,F43.1
+P0437,Paciente 0437,139,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 537",Leste,Lucia Ferreira,F80.1
+P0438,Paciente 0438,146,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 538",Oeste,João Silva,F41.2
+P0439,Paciente 0439,153,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 539",Zona Industrial,Maria Santos,M54.1
+P0440,Paciente 0440,160,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 540",Vila Nova,Pedro Costa,F41.1
+P0441,Paciente 0441,167,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 541",Centro,Ana Paula,M54.0
+P0442,Paciente 0442,174,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 542",Norte,Carlos Mendes,F32.9
+P0443,Paciente 0443,181,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 543",Sul,Lucia Ferreira,F80.0
+P0444,Paciente 0444,188,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 544",Leste,João Silva,F41.0
+P0445,Paciente 0445,195,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 545",Oeste,Maria Santos,M25.9
+P0446,Paciente 0446,202,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 546",Zona Industrial,Pedro Costa,F43.1
+P0447,Paciente 0447,209,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 547",Vila Nova,Ana Paula,F80.1
+P0448,Paciente 0448,216,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 548",Centro,Carlos Mendes,F41.2
+P0449,Paciente 0449,223,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 549",Norte,Lucia Ferreira,M54.1
+P0450,Paciente 0450,230,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 550",Sul,João Silva,F41.1
+P0451,Paciente 0451,237,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 551",Leste,Maria Santos,M54.0
+P0452,Paciente 0452,244,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 552",Oeste,Pedro Costa,F32.9
+P0453,Paciente 0453,251,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 553",Zona Industrial,Ana Paula,F80.0
+P0454,Paciente 0454,258,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 554",Vila Nova,Carlos Mendes,F41.0
+P0455,Paciente 0455,265,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 555",Centro,Lucia Ferreira,M25.9
+P0456,Paciente 0456,272,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 556",Norte,João Silva,F43.1
+P0457,Paciente 0457,279,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 557",Sul,Maria Santos,F80.1
+P0458,Paciente 0458,286,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 558",Leste,Pedro Costa,F41.2
+P0459,Paciente 0459,293,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 559",Oeste,Ana Paula,M54.1
+P0460,Paciente 0460,300,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 560",Zona Industrial,Carlos Mendes,F41.1
+P0461,Paciente 0461,307,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 561",Vila Nova,Lucia Ferreira,M54.0
+P0462,Paciente 0462,314,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 562",Centro,João Silva,F32.9
+P0463,Paciente 0463,321,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 563",Norte,Maria Santos,F80.0
+P0464,Paciente 0464,328,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 564",Sul,Pedro Costa,F41.0
+P0465,Paciente 0465,335,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 565",Leste,Ana Paula,M25.9
+P0466,Paciente 0466,342,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 566",Oeste,Carlos Mendes,F43.1
+P0467,Paciente 0467,349,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 567",Zona Industrial,Lucia Ferreira,F80.1
+P0468,Paciente 0468,356,Psicologia,Individual,Semanal,USF Leste,"Rua I, 568",Vila Nova,João Silva,F41.2
+P0469,Paciente 0469,363,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 569",Centro,Maria Santos,M54.1
+P0470,Paciente 0470,5,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 570",Norte,Pedro Costa,F41.1
+P0471,Paciente 0471,12,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 571",Sul,Ana Paula,M54.0
+P0472,Paciente 0472,19,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 572",Leste,Carlos Mendes,F32.9
+P0473,Paciente 0473,26,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 573",Oeste,Lucia Ferreira,F80.0
+P0474,Paciente 0474,33,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 574",Zona Industrial,João Silva,F41.0
+P0475,Paciente 0475,40,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 575",Vila Nova,Maria Santos,M25.9
+P0476,Paciente 0476,47,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 576",Centro,Pedro Costa,F43.1
+P0477,Paciente 0477,54,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 577",Norte,Ana Paula,F80.1
+P0478,Paciente 0478,61,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 578",Sul,Carlos Mendes,F41.2
+P0479,Paciente 0479,68,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 579",Leste,Lucia Ferreira,M54.1
+P0480,Paciente 0480,75,Psicologia,Individual,Semanal,USF Centro,"Rua A, 580",Oeste,João Silva,F41.1
+P0481,Paciente 0481,82,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 581",Zona Industrial,Maria Santos,M54.0
+P0482,Paciente 0482,89,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 582",Vila Nova,Pedro Costa,F32.9
+P0483,Paciente 0483,96,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 583",Centro,Ana Paula,F80.0
+P0484,Paciente 0484,103,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 584",Norte,Carlos Mendes,F41.0
+P0485,Paciente 0485,110,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 585",Sul,Lucia Ferreira,M25.9
+P0486,Paciente 0486,117,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 586",Leste,João Silva,F43.1
+P0487,Paciente 0487,124,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 587",Oeste,Maria Santos,F80.1
+P0488,Paciente 0488,131,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 588",Zona Industrial,Pedro Costa,F41.2
+P0489,Paciente 0489,138,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 589",Vila Nova,Ana Paula,M54.1
+P0490,Paciente 0490,145,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 590",Centro,Carlos Mendes,F41.1
+P0491,Paciente 0491,152,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 591",Norte,Lucia Ferreira,M54.0
+P0492,Paciente 0492,159,Psicologia,Individual,Semanal,USF Sul,"Rua M, 592",Sul,João Silva,F32.9
+P0493,Paciente 0493,166,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 593",Leste,Maria Santos,F80.0
+P0494,Paciente 0494,173,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 594",Oeste,Pedro Costa,F41.0
+P0495,Paciente 0495,180,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 595",Zona Industrial,Ana Paula,M25.9
+P0496,Paciente 0496,187,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 596",Vila Nova,Carlos Mendes,F43.1
+P0497,Paciente 0497,194,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 597",Centro,Lucia Ferreira,F80.1
+P0498,Paciente 0498,201,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 598",Norte,João Silva,F41.2
+P0499,Paciente 0499,208,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 599",Sul,Maria Santos,M54.1
+P0500,Paciente 0500,215,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 600",Leste,Pedro Costa,F41.1
+P0501,Paciente 0501,222,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 601",Oeste,Ana Paula,M54.0
+P0502,Paciente 0502,229,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 602",Zona Industrial,Carlos Mendes,F32.9
+P0503,Paciente 0503,236,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 603",Vila Nova,Lucia Ferreira,F80.0
+P0504,Paciente 0504,243,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 604",Centro,João Silva,F41.0
+P0505,Paciente 0505,250,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 605",Norte,Maria Santos,M25.9
+P0506,Paciente 0506,257,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 606",Sul,Pedro Costa,F43.1
+P0507,Paciente 0507,264,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 607",Leste,Ana Paula,F80.1
+P0508,Paciente 0508,271,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 608",Oeste,Carlos Mendes,F41.2
+P0509,Paciente 0509,278,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 609",Zona Industrial,Lucia Ferreira,M54.1
+P0510,Paciente 0510,285,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 610",Vila Nova,João Silva,F41.1
+P0511,Paciente 0511,292,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 611",Centro,Maria Santos,M54.0
+P0512,Paciente 0512,299,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 612",Norte,Pedro Costa,F32.9
+P0513,Paciente 0513,306,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 613",Sul,Ana Paula,F80.0
+P0514,Paciente 0514,313,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 614",Leste,Carlos Mendes,F41.0
+P0515,Paciente 0515,320,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 615",Oeste,Lucia Ferreira,M25.9
+P0516,Paciente 0516,327,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 616",Zona Industrial,João Silva,F43.1
+P0517,Paciente 0517,334,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 617",Vila Nova,Maria Santos,F80.1
+P0518,Paciente 0518,341,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 618",Centro,Pedro Costa,F41.2
+P0519,Paciente 0519,348,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 619",Norte,Ana Paula,M54.1
+P0520,Paciente 0520,355,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 620",Sul,Carlos Mendes,F41.1
+P0521,Paciente 0521,362,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 621",Leste,Lucia Ferreira,M54.0
+P0522,Paciente 0522,4,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 622",Oeste,João Silva,F32.9
+P0523,Paciente 0523,11,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 623",Zona Industrial,Maria Santos,F80.0
+P0524,Paciente 0524,18,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 624",Vila Nova,Pedro Costa,F41.0
+P0525,Paciente 0525,25,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 625",Centro,Ana Paula,M25.9
+P0526,Paciente 0526,32,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 626",Norte,Carlos Mendes,F43.1
+P0527,Paciente 0527,39,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 627",Sul,Lucia Ferreira,F80.1
+P0528,Paciente 0528,46,Psicologia,Individual,Semanal,USF Leste,"Rua I, 628",Leste,João Silva,F41.2
+P0529,Paciente 0529,53,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 629",Oeste,Maria Santos,M54.1
+P0530,Paciente 0530,60,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 630",Zona Industrial,Pedro Costa,F41.1
+P0531,Paciente 0531,67,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 631",Vila Nova,Ana Paula,M54.0
+P0532,Paciente 0532,74,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 632",Centro,Carlos Mendes,F32.9
+P0533,Paciente 0533,81,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 633",Norte,Lucia Ferreira,F80.0
+P0534,Paciente 0534,88,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 634",Sul,João Silva,F41.0
+P0535,Paciente 0535,95,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 635",Leste,Maria Santos,M25.9
+P0536,Paciente 0536,102,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 636",Oeste,Pedro Costa,F43.1
+P0537,Paciente 0537,109,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 637",Zona Industrial,Ana Paula,F80.1
+P0538,Paciente 0538,116,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 638",Vila Nova,Carlos Mendes,F41.2
+P0539,Paciente 0539,123,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 639",Centro,Lucia Ferreira,M54.1
+P0540,Paciente 0540,130,Psicologia,Individual,Semanal,USF Centro,"Rua A, 640",Norte,João Silva,F41.1
+P0541,Paciente 0541,137,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 641",Sul,Maria Santos,M54.0
+P0542,Paciente 0542,144,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 642",Leste,Pedro Costa,F32.9
+P0543,Paciente 0543,151,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 643",Oeste,Ana Paula,F80.0
+P0544,Paciente 0544,158,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 644",Zona Industrial,Carlos Mendes,F41.0
+P0545,Paciente 0545,165,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 645",Vila Nova,Lucia Ferreira,M25.9
+P0546,Paciente 0546,172,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 646",Centro,João Silva,F43.1
+P0547,Paciente 0547,179,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 647",Norte,Maria Santos,F80.1
+P0548,Paciente 0548,186,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 648",Sul,Pedro Costa,F41.2
+P0549,Paciente 0549,193,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 649",Leste,Ana Paula,M54.1
+P0550,Paciente 0550,200,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 650",Oeste,Carlos Mendes,F41.1
+P0551,Paciente 0551,207,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 651",Zona Industrial,Lucia Ferreira,M54.0
+P0552,Paciente 0552,214,Psicologia,Individual,Semanal,USF Sul,"Rua M, 652",Vila Nova,João Silva,F32.9
+P0553,Paciente 0553,221,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 653",Centro,Maria Santos,F80.0
+P0554,Paciente 0554,228,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 654",Norte,Pedro Costa,F41.0
+P0555,Paciente 0555,235,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 655",Sul,Ana Paula,M25.9
+P0556,Paciente 0556,242,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 656",Leste,Carlos Mendes,F43.1
+P0557,Paciente 0557,249,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 657",Oeste,Lucia Ferreira,F80.1
+P0558,Paciente 0558,256,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 658",Zona Industrial,João Silva,F41.2
+P0559,Paciente 0559,263,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 659",Vila Nova,Maria Santos,M54.1
+P0560,Paciente 0560,270,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 660",Centro,Pedro Costa,F41.1
+P0561,Paciente 0561,277,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 661",Norte,Ana Paula,M54.0
+P0562,Paciente 0562,284,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 662",Sul,Carlos Mendes,F32.9
+P0563,Paciente 0563,291,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 663",Leste,Lucia Ferreira,F80.0
+P0564,Paciente 0564,298,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 664",Oeste,João Silva,F41.0
+P0565,Paciente 0565,305,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 665",Zona Industrial,Maria Santos,M25.9
+P0566,Paciente 0566,312,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 666",Vila Nova,Pedro Costa,F43.1
+P0567,Paciente 0567,319,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 667",Centro,Ana Paula,F80.1
+P0568,Paciente 0568,326,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 668",Norte,Carlos Mendes,F41.2
+P0569,Paciente 0569,333,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 669",Sul,Lucia Ferreira,M54.1
+P0570,Paciente 0570,340,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 670",Leste,João Silva,F41.1
+P0571,Paciente 0571,347,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 671",Oeste,Maria Santos,M54.0
+P0572,Paciente 0572,354,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 672",Zona Industrial,Pedro Costa,F32.9
+P0573,Paciente 0573,361,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 673",Vila Nova,Ana Paula,F80.0
+P0574,Paciente 0574,3,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 674",Centro,Carlos Mendes,F41.0
+P0575,Paciente 0575,10,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 675",Norte,Lucia Ferreira,M25.9
+P0576,Paciente 0576,17,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 676",Sul,João Silva,F43.1
+P0577,Paciente 0577,24,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 677",Leste,Maria Santos,F80.1
+P0578,Paciente 0578,31,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 678",Oeste,Pedro Costa,F41.2
+P0579,Paciente 0579,38,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 679",Zona Industrial,Ana Paula,M54.1
+P0580,Paciente 0580,45,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 680",Vila Nova,Carlos Mendes,F41.1
+P0581,Paciente 0581,52,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 681",Centro,Lucia Ferreira,M54.0
+P0582,Paciente 0582,59,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 682",Norte,João Silva,F32.9
+P0583,Paciente 0583,66,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 683",Sul,Maria Santos,F80.0
+P0584,Paciente 0584,73,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 684",Leste,Pedro Costa,F41.0
+P0585,Paciente 0585,80,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 685",Oeste,Ana Paula,M25.9
+P0586,Paciente 0586,87,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 686",Zona Industrial,Carlos Mendes,F43.1
+P0587,Paciente 0587,94,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 687",Vila Nova,Lucia Ferreira,F80.1
+P0588,Paciente 0588,101,Psicologia,Individual,Semanal,USF Leste,"Rua I, 688",Centro,João Silva,F41.2
+P0589,Paciente 0589,108,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 689",Norte,Maria Santos,M54.1
+P0590,Paciente 0590,115,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 690",Sul,Pedro Costa,F41.1
+P0591,Paciente 0591,122,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 691",Leste,Ana Paula,M54.0
+P0592,Paciente 0592,129,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 692",Oeste,Carlos Mendes,F32.9
+P0593,Paciente 0593,136,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 693",Zona Industrial,Lucia Ferreira,F80.0
+P0594,Paciente 0594,143,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 694",Vila Nova,João Silva,F41.0
+P0595,Paciente 0595,150,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 695",Centro,Maria Santos,M25.9
+P0596,Paciente 0596,157,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 696",Norte,Pedro Costa,F43.1
+P0597,Paciente 0597,164,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 697",Sul,Ana Paula,F80.1
+P0598,Paciente 0598,171,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 698",Leste,Carlos Mendes,F41.2
+P0599,Paciente 0599,178,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 699",Oeste,Lucia Ferreira,M54.1
+P0600,Paciente 0600,185,Psicologia,Individual,Semanal,USF Centro,"Rua A, 700",Zona Industrial,João Silva,F41.1
+P0601,Paciente 0601,192,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 701",Vila Nova,Maria Santos,M54.0
+P0602,Paciente 0602,199,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 702",Centro,Pedro Costa,F32.9
+P0603,Paciente 0603,206,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 703",Norte,Ana Paula,F80.0
+P0604,Paciente 0604,213,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 704",Sul,Carlos Mendes,F41.0
+P0605,Paciente 0605,220,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 705",Leste,Lucia Ferreira,M25.9
+P0606,Paciente 0606,227,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 706",Oeste,João Silva,F43.1
+P0607,Paciente 0607,234,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 707",Zona Industrial,Maria Santos,F80.1
+P0608,Paciente 0608,241,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 708",Vila Nova,Pedro Costa,F41.2
+P0609,Paciente 0609,248,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 709",Centro,Ana Paula,M54.1
+P0610,Paciente 0610,255,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 710",Norte,Carlos Mendes,F41.1
+P0611,Paciente 0611,262,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 711",Sul,Lucia Ferreira,M54.0
+P0612,Paciente 0612,269,Psicologia,Individual,Semanal,USF Sul,"Rua M, 712",Leste,João Silva,F32.9
+P0613,Paciente 0613,276,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 713",Oeste,Maria Santos,F80.0
+P0614,Paciente 0614,283,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 714",Zona Industrial,Pedro Costa,F41.0
+P0615,Paciente 0615,290,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 715",Vila Nova,Ana Paula,M25.9
+P0616,Paciente 0616,297,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 716",Centro,Carlos Mendes,F43.1
+P0617,Paciente 0617,304,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 717",Norte,Lucia Ferreira,F80.1
+P0618,Paciente 0618,311,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 718",Sul,João Silva,F41.2
+P0619,Paciente 0619,318,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 719",Leste,Maria Santos,M54.1
+P0620,Paciente 0620,325,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 720",Oeste,Pedro Costa,F41.1
+P0621,Paciente 0621,332,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 721",Zona Industrial,Ana Paula,M54.0
+P0622,Paciente 0622,339,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 722",Vila Nova,Carlos Mendes,F32.9
+P0623,Paciente 0623,346,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 723",Centro,Lucia Ferreira,F80.0
+P0624,Paciente 0624,353,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 724",Norte,João Silva,F41.0
+P0625,Paciente 0625,360,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 725",Sul,Maria Santos,M25.9
+P0626,Paciente 0626,2,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 726",Leste,Pedro Costa,F43.1
+P0627,Paciente 0627,9,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 727",Oeste,Ana Paula,F80.1
+P0628,Paciente 0628,16,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 728",Zona Industrial,Carlos Mendes,F41.2
+P0629,Paciente 0629,23,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 729",Vila Nova,Lucia Ferreira,M54.1
+P0630,Paciente 0630,30,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 730",Centro,João Silva,F41.1
+P0631,Paciente 0631,37,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 731",Norte,Maria Santos,M54.0
+P0632,Paciente 0632,44,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 732",Sul,Pedro Costa,F32.9
+P0633,Paciente 0633,51,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 733",Leste,Ana Paula,F80.0
+P0634,Paciente 0634,58,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 734",Oeste,Carlos Mendes,F41.0
+P0635,Paciente 0635,65,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 735",Zona Industrial,Lucia Ferreira,M25.9
+P0636,Paciente 0636,72,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 736",Vila Nova,João Silva,F43.1
+P0637,Paciente 0637,79,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 737",Centro,Maria Santos,F80.1
+P0638,Paciente 0638,86,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 738",Norte,Pedro Costa,F41.2
+P0639,Paciente 0639,93,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 739",Sul,Ana Paula,M54.1
+P0640,Paciente 0640,100,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 740",Leste,Carlos Mendes,F41.1
+P0641,Paciente 0641,107,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 741",Oeste,Lucia Ferreira,M54.0
+P0642,Paciente 0642,114,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 742",Zona Industrial,João Silva,F32.9
+P0643,Paciente 0643,121,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 743",Vila Nova,Maria Santos,F80.0
+P0644,Paciente 0644,128,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 744",Centro,Pedro Costa,F41.0
+P0645,Paciente 0645,135,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 745",Norte,Ana Paula,M25.9
+P0646,Paciente 0646,142,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 746",Sul,Carlos Mendes,F43.1
+P0647,Paciente 0647,149,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 747",Leste,Lucia Ferreira,F80.1
+P0648,Paciente 0648,156,Psicologia,Individual,Semanal,USF Leste,"Rua I, 748",Oeste,João Silva,F41.2
+P0649,Paciente 0649,163,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 749",Zona Industrial,Maria Santos,M54.1
+P0650,Paciente 0650,170,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 750",Vila Nova,Pedro Costa,F41.1
+P0651,Paciente 0651,177,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 751",Centro,Ana Paula,M54.0
+P0652,Paciente 0652,184,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 752",Norte,Carlos Mendes,F32.9
+P0653,Paciente 0653,191,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 753",Sul,Lucia Ferreira,F80.0
+P0654,Paciente 0654,198,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 754",Leste,João Silva,F41.0
+P0655,Paciente 0655,205,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 755",Oeste,Maria Santos,M25.9
+P0656,Paciente 0656,212,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 756",Zona Industrial,Pedro Costa,F43.1
+P0657,Paciente 0657,219,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 757",Vila Nova,Ana Paula,F80.1
+P0658,Paciente 0658,226,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 758",Centro,Carlos Mendes,F41.2
+P0659,Paciente 0659,233,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 759",Norte,Lucia Ferreira,M54.1
+P0660,Paciente 0660,240,Psicologia,Individual,Semanal,USF Centro,"Rua A, 760",Sul,João Silva,F41.1
+P0661,Paciente 0661,247,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 761",Leste,Maria Santos,M54.0
+P0662,Paciente 0662,254,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 762",Oeste,Pedro Costa,F32.9
+P0663,Paciente 0663,261,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 763",Zona Industrial,Ana Paula,F80.0
+P0664,Paciente 0664,268,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 764",Vila Nova,Carlos Mendes,F41.0
+P0665,Paciente 0665,275,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 765",Centro,Lucia Ferreira,M25.9
+P0666,Paciente 0666,282,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 766",Norte,João Silva,F43.1
+P0667,Paciente 0667,289,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 767",Sul,Maria Santos,F80.1
+P0668,Paciente 0668,296,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 768",Leste,Pedro Costa,F41.2
+P0669,Paciente 0669,303,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 769",Oeste,Ana Paula,M54.1
+P0670,Paciente 0670,310,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 770",Zona Industrial,Carlos Mendes,F41.1
+P0671,Paciente 0671,317,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 771",Vila Nova,Lucia Ferreira,M54.0
+P0672,Paciente 0672,324,Psicologia,Individual,Semanal,USF Sul,"Rua M, 772",Centro,João Silva,F32.9
+P0673,Paciente 0673,331,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 773",Norte,Maria Santos,F80.0
+P0674,Paciente 0674,338,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 774",Sul,Pedro Costa,F41.0
+P0675,Paciente 0675,345,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 775",Leste,Ana Paula,M25.9
+P0676,Paciente 0676,352,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 776",Oeste,Carlos Mendes,F43.1
+P0677,Paciente 0677,359,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 777",Zona Industrial,Lucia Ferreira,F80.1
+P0678,Paciente 0678,1,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 778",Vila Nova,João Silva,F41.2
+P0679,Paciente 0679,8,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 779",Centro,Maria Santos,M54.1
+P0680,Paciente 0680,15,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 780",Norte,Pedro Costa,F41.1
+P0681,Paciente 0681,22,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 781",Sul,Ana Paula,M54.0
+P0682,Paciente 0682,29,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 782",Leste,Carlos Mendes,F32.9
+P0683,Paciente 0683,36,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 783",Oeste,Lucia Ferreira,F80.0
+P0684,Paciente 0684,43,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 784",Zona Industrial,João Silva,F41.0
+P0685,Paciente 0685,50,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 785",Vila Nova,Maria Santos,M25.9
+P0686,Paciente 0686,57,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 786",Centro,Pedro Costa,F43.1
+P0687,Paciente 0687,64,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 787",Norte,Ana Paula,F80.1
+P0688,Paciente 0688,71,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 788",Sul,Carlos Mendes,F41.2
+P0689,Paciente 0689,78,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 789",Leste,Lucia Ferreira,M54.1
+P0690,Paciente 0690,85,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 790",Oeste,João Silva,F41.1
+P0691,Paciente 0691,92,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 791",Zona Industrial,Maria Santos,M54.0
+P0692,Paciente 0692,99,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 792",Vila Nova,Pedro Costa,F32.9
+P0693,Paciente 0693,106,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 793",Centro,Ana Paula,F80.0
+P0694,Paciente 0694,113,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 794",Norte,Carlos Mendes,F41.0
+P0695,Paciente 0695,120,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 795",Sul,Lucia Ferreira,M25.9
+P0696,Paciente 0696,127,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 796",Leste,João Silva,F43.1
+P0697,Paciente 0697,134,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 797",Oeste,Maria Santos,F80.1
+P0698,Paciente 0698,141,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 798",Zona Industrial,Pedro Costa,F41.2
+P0699,Paciente 0699,148,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 799",Vila Nova,Ana Paula,M54.1
+P0700,Paciente 0700,155,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 800",Centro,Carlos Mendes,F41.1
+P0701,Paciente 0701,162,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 801",Norte,Lucia Ferreira,M54.0
+P0702,Paciente 0702,169,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 802",Sul,João Silva,F32.9
+P0703,Paciente 0703,176,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 803",Leste,Maria Santos,F80.0
+P0704,Paciente 0704,183,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 804",Oeste,Pedro Costa,F41.0
+P0705,Paciente 0705,190,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 805",Zona Industrial,Ana Paula,M25.9
+P0706,Paciente 0706,197,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 806",Vila Nova,Carlos Mendes,F43.1
+P0707,Paciente 0707,204,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 807",Centro,Lucia Ferreira,F80.1
+P0708,Paciente 0708,211,Psicologia,Individual,Semanal,USF Leste,"Rua I, 808",Norte,João Silva,F41.2
+P0709,Paciente 0709,218,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 809",Sul,Maria Santos,M54.1
+P0710,Paciente 0710,225,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 810",Leste,Pedro Costa,F41.1
+P0711,Paciente 0711,232,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 811",Oeste,Ana Paula,M54.0
+P0712,Paciente 0712,239,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 812",Zona Industrial,Carlos Mendes,F32.9
+P0713,Paciente 0713,246,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 813",Vila Nova,Lucia Ferreira,F80.0
+P0714,Paciente 0714,253,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 814",Centro,João Silva,F41.0
+P0715,Paciente 0715,260,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 815",Norte,Maria Santos,M25.9
+P0716,Paciente 0716,267,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 816",Sul,Pedro Costa,F43.1
+P0717,Paciente 0717,274,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 817",Leste,Ana Paula,F80.1
+P0718,Paciente 0718,281,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 818",Oeste,Carlos Mendes,F41.2
+P0719,Paciente 0719,288,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 819",Zona Industrial,Lucia Ferreira,M54.1
+P0720,Paciente 0720,295,Psicologia,Individual,Semanal,USF Centro,"Rua A, 820",Vila Nova,João Silva,F41.1
+P0721,Paciente 0721,302,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 821",Centro,Maria Santos,M54.0
+P0722,Paciente 0722,309,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 822",Norte,Pedro Costa,F32.9
+P0723,Paciente 0723,316,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 823",Sul,Ana Paula,F80.0
+P0724,Paciente 0724,323,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 824",Leste,Carlos Mendes,F41.0
+P0725,Paciente 0725,330,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 825",Oeste,Lucia Ferreira,M25.9
+P0726,Paciente 0726,337,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 826",Zona Industrial,João Silva,F43.1
+P0727,Paciente 0727,344,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 827",Vila Nova,Maria Santos,F80.1
+P0728,Paciente 0728,351,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 828",Centro,Pedro Costa,F41.2
+P0729,Paciente 0729,358,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 829",Norte,Ana Paula,M54.1
+P0730,Paciente 0730,0,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 830",Sul,Carlos Mendes,F41.1
+P0731,Paciente 0731,7,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 831",Leste,Lucia Ferreira,M54.0
+P0732,Paciente 0732,14,Psicologia,Individual,Semanal,USF Sul,"Rua M, 832",Oeste,João Silva,F32.9
+P0733,Paciente 0733,21,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 833",Zona Industrial,Maria Santos,F80.0
+P0734,Paciente 0734,28,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 834",Vila Nova,Pedro Costa,F41.0
+P0735,Paciente 0735,35,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 835",Centro,Ana Paula,M25.9
+P0736,Paciente 0736,42,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 836",Norte,Carlos Mendes,F43.1
+P0737,Paciente 0737,49,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 837",Sul,Lucia Ferreira,F80.1
+P0738,Paciente 0738,56,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 838",Leste,João Silva,F41.2
+P0739,Paciente 0739,63,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 839",Oeste,Maria Santos,M54.1
+P0740,Paciente 0740,70,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 840",Zona Industrial,Pedro Costa,F41.1
+P0741,Paciente 0741,77,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 841",Vila Nova,Ana Paula,M54.0
+P0742,Paciente 0742,84,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 842",Centro,Carlos Mendes,F32.9
+P0743,Paciente 0743,91,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 843",Norte,Lucia Ferreira,F80.0
+P0744,Paciente 0744,98,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 844",Sul,João Silva,F41.0
+P0745,Paciente 0745,105,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 845",Leste,Maria Santos,M25.9
+P0746,Paciente 0746,112,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 846",Oeste,Pedro Costa,F43.1
+P0747,Paciente 0747,119,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 847",Zona Industrial,Ana Paula,F80.1
+P0748,Paciente 0748,126,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 848",Vila Nova,Carlos Mendes,F41.2
+P0749,Paciente 0749,133,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 849",Centro,Lucia Ferreira,M54.1
+P0750,Paciente 0750,140,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 850",Norte,João Silva,F41.1
+P0751,Paciente 0751,147,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 851",Sul,Maria Santos,M54.0
+P0752,Paciente 0752,154,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 852",Leste,Pedro Costa,F32.9
+P0753,Paciente 0753,161,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 853",Oeste,Ana Paula,F80.0
+P0754,Paciente 0754,168,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 854",Zona Industrial,Carlos Mendes,F41.0
+P0755,Paciente 0755,175,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 855",Vila Nova,Lucia Ferreira,M25.9
+P0756,Paciente 0756,182,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 856",Centro,João Silva,F43.1
+P0757,Paciente 0757,189,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 857",Norte,Maria Santos,F80.1
+P0758,Paciente 0758,196,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 858",Sul,Pedro Costa,F41.2
+P0759,Paciente 0759,203,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 859",Leste,Ana Paula,M54.1
+P0760,Paciente 0760,210,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 860",Oeste,Carlos Mendes,F41.1
+P0761,Paciente 0761,217,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 861",Zona Industrial,Lucia Ferreira,M54.0
+P0762,Paciente 0762,224,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 862",Vila Nova,João Silva,F32.9
+P0763,Paciente 0763,231,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 863",Centro,Maria Santos,F80.0
+P0764,Paciente 0764,238,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 864",Norte,Pedro Costa,F41.0
+P0765,Paciente 0765,245,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 865",Sul,Ana Paula,M25.9
+P0766,Paciente 0766,252,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 866",Leste,Carlos Mendes,F43.1
+P0767,Paciente 0767,259,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 867",Oeste,Lucia Ferreira,F80.1
+P0768,Paciente 0768,266,Psicologia,Individual,Semanal,USF Leste,"Rua I, 868",Zona Industrial,João Silva,F41.2
+P0769,Paciente 0769,273,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 869",Vila Nova,Maria Santos,M54.1
+P0770,Paciente 0770,280,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 870",Centro,Pedro Costa,F41.1
+P0771,Paciente 0771,287,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 871",Norte,Ana Paula,M54.0
+P0772,Paciente 0772,294,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 872",Sul,Carlos Mendes,F32.9
+P0773,Paciente 0773,301,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 873",Leste,Lucia Ferreira,F80.0
+P0774,Paciente 0774,308,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 874",Oeste,João Silva,F41.0
+P0775,Paciente 0775,315,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 875",Zona Industrial,Maria Santos,M25.9
+P0776,Paciente 0776,322,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 876",Vila Nova,Pedro Costa,F43.1
+P0777,Paciente 0777,329,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 877",Centro,Ana Paula,F80.1
+P0778,Paciente 0778,336,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 878",Norte,Carlos Mendes,F41.2
+P0779,Paciente 0779,343,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 879",Sul,Lucia Ferreira,M54.1
+P0780,Paciente 0780,350,Psicologia,Individual,Semanal,USF Centro,"Rua A, 880",Leste,João Silva,F41.1
+P0781,Paciente 0781,357,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 881",Oeste,Maria Santos,M54.0
+P0782,Paciente 0782,364,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 882",Zona Industrial,Pedro Costa,F32.9
+P0783,Paciente 0783,6,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 883",Vila Nova,Ana Paula,F80.0
+P0784,Paciente 0784,13,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 884",Centro,Carlos Mendes,F41.0
+P0785,Paciente 0785,20,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 885",Norte,Lucia Ferreira,M25.9
+P0786,Paciente 0786,27,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 886",Sul,João Silva,F43.1
+P0787,Paciente 0787,34,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 887",Leste,Maria Santos,F80.1
+P0788,Paciente 0788,41,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 888",Oeste,Pedro Costa,F41.2
+P0789,Paciente 0789,48,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 889",Zona Industrial,Ana Paula,M54.1
+P0790,Paciente 0790,55,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 890",Vila Nova,Carlos Mendes,F41.1
+P0791,Paciente 0791,62,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 891",Centro,Lucia Ferreira,M54.0
+P0792,Paciente 0792,69,Psicologia,Individual,Semanal,USF Sul,"Rua M, 892",Norte,João Silva,F32.9
+P0793,Paciente 0793,76,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 893",Sul,Maria Santos,F80.0
+P0794,Paciente 0794,83,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 894",Leste,Pedro Costa,F41.0
+P0795,Paciente 0795,90,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 895",Oeste,Ana Paula,M25.9
+P0796,Paciente 0796,97,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 896",Zona Industrial,Carlos Mendes,F43.1
+P0797,Paciente 0797,104,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 897",Vila Nova,Lucia Ferreira,F80.1
+P0798,Paciente 0798,111,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 898",Centro,João Silva,F41.2
+P0799,Paciente 0799,118,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 899",Norte,Maria Santos,M54.1
+P0800,Paciente 0800,125,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 900",Sul,Pedro Costa,F41.1
+P0801,Paciente 0801,132,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 901",Leste,Ana Paula,M54.0
+P0802,Paciente 0802,139,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 902",Oeste,Carlos Mendes,F32.9
+P0803,Paciente 0803,146,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 903",Zona Industrial,Lucia Ferreira,F80.0
+P0804,Paciente 0804,153,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 904",Vila Nova,João Silva,F41.0
+P0805,Paciente 0805,160,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 905",Centro,Maria Santos,M25.9
+P0806,Paciente 0806,167,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 906",Norte,Pedro Costa,F43.1
+P0807,Paciente 0807,174,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 907",Sul,Ana Paula,F80.1
+P0808,Paciente 0808,181,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 908",Leste,Carlos Mendes,F41.2
+P0809,Paciente 0809,188,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 909",Oeste,Lucia Ferreira,M54.1
+P0810,Paciente 0810,195,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 910",Zona Industrial,João Silva,F41.1
+P0811,Paciente 0811,202,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 911",Vila Nova,Maria Santos,M54.0
+P0812,Paciente 0812,209,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 912",Centro,Pedro Costa,F32.9
+P0813,Paciente 0813,216,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 913",Norte,Ana Paula,F80.0
+P0814,Paciente 0814,223,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 914",Sul,Carlos Mendes,F41.0
+P0815,Paciente 0815,230,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 915",Leste,Lucia Ferreira,M25.9
+P0816,Paciente 0816,237,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 916",Oeste,João Silva,F43.1
+P0817,Paciente 0817,244,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 917",Zona Industrial,Maria Santos,F80.1
+P0818,Paciente 0818,251,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 918",Vila Nova,Pedro Costa,F41.2
+P0819,Paciente 0819,258,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 919",Centro,Ana Paula,M54.1
+P0820,Paciente 0820,265,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 920",Norte,Carlos Mendes,F41.1
+P0821,Paciente 0821,272,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 921",Sul,Lucia Ferreira,M54.0
+P0822,Paciente 0822,279,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 922",Leste,João Silva,F32.9
+P0823,Paciente 0823,286,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 923",Oeste,Maria Santos,F80.0
+P0824,Paciente 0824,293,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 924",Zona Industrial,Pedro Costa,F41.0
+P0825,Paciente 0825,300,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 925",Vila Nova,Ana Paula,M25.9
+P0826,Paciente 0826,307,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 926",Centro,Carlos Mendes,F43.1
+P0827,Paciente 0827,314,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 927",Norte,Lucia Ferreira,F80.1
+P0828,Paciente 0828,321,Psicologia,Individual,Semanal,USF Leste,"Rua I, 928",Sul,João Silva,F41.2
+P0829,Paciente 0829,328,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 929",Leste,Maria Santos,M54.1
+P0830,Paciente 0830,335,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 930",Oeste,Pedro Costa,F41.1
+P0831,Paciente 0831,342,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 931",Zona Industrial,Ana Paula,M54.0
+P0832,Paciente 0832,349,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 932",Vila Nova,Carlos Mendes,F32.9
+P0833,Paciente 0833,356,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 933",Centro,Lucia Ferreira,F80.0
+P0834,Paciente 0834,363,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 934",Norte,João Silva,F41.0
+P0835,Paciente 0835,5,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 935",Sul,Maria Santos,M25.9
+P0836,Paciente 0836,12,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 936",Leste,Pedro Costa,F43.1
+P0837,Paciente 0837,19,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 937",Oeste,Ana Paula,F80.1
+P0838,Paciente 0838,26,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 938",Zona Industrial,Carlos Mendes,F41.2
+P0839,Paciente 0839,33,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 939",Vila Nova,Lucia Ferreira,M54.1
+P0840,Paciente 0840,40,Psicologia,Individual,Semanal,USF Centro,"Rua A, 940",Centro,João Silva,F41.1
+P0841,Paciente 0841,47,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 941",Norte,Maria Santos,M54.0
+P0842,Paciente 0842,54,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 942",Sul,Pedro Costa,F32.9
+P0843,Paciente 0843,61,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 943",Leste,Ana Paula,F80.0
+P0844,Paciente 0844,68,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 944",Oeste,Carlos Mendes,F41.0
+P0845,Paciente 0845,75,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 945",Zona Industrial,Lucia Ferreira,M25.9
+P0846,Paciente 0846,82,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 946",Vila Nova,João Silva,F43.1
+P0847,Paciente 0847,89,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 947",Centro,Maria Santos,F80.1
+P0848,Paciente 0848,96,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 948",Norte,Pedro Costa,F41.2
+P0849,Paciente 0849,103,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 949",Sul,Ana Paula,M54.1
+P0850,Paciente 0850,110,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 950",Leste,Carlos Mendes,F41.1
+P0851,Paciente 0851,117,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 951",Oeste,Lucia Ferreira,M54.0
+P0852,Paciente 0852,124,Psicologia,Individual,Semanal,USF Sul,"Rua M, 952",Zona Industrial,João Silva,F32.9
+P0853,Paciente 0853,131,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 953",Vila Nova,Maria Santos,F80.0
+P0854,Paciente 0854,138,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 954",Centro,Pedro Costa,F41.0
+P0855,Paciente 0855,145,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 955",Norte,Ana Paula,M25.9
+P0856,Paciente 0856,152,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 956",Sul,Carlos Mendes,F43.1
+P0857,Paciente 0857,159,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 957",Leste,Lucia Ferreira,F80.1
+P0858,Paciente 0858,166,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 958",Oeste,João Silva,F41.2
+P0859,Paciente 0859,173,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 959",Zona Industrial,Maria Santos,M54.1
+P0860,Paciente 0860,180,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 960",Vila Nova,Pedro Costa,F41.1
+P0861,Paciente 0861,187,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 961",Centro,Ana Paula,M54.0
+P0862,Paciente 0862,194,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 962",Norte,Carlos Mendes,F32.9
+P0863,Paciente 0863,201,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 963",Sul,Lucia Ferreira,F80.0
+P0864,Paciente 0864,208,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 964",Leste,João Silva,F41.0
+P0865,Paciente 0865,215,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 965",Oeste,Maria Santos,M25.9
+P0866,Paciente 0866,222,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 966",Zona Industrial,Pedro Costa,F43.1
+P0867,Paciente 0867,229,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 967",Vila Nova,Ana Paula,F80.1
+P0868,Paciente 0868,236,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 968",Centro,Carlos Mendes,F41.2
+P0869,Paciente 0869,243,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 969",Norte,Lucia Ferreira,M54.1
+P0870,Paciente 0870,250,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 970",Sul,João Silva,F41.1
+P0871,Paciente 0871,257,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 971",Leste,Maria Santos,M54.0
+P0872,Paciente 0872,264,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 972",Oeste,Pedro Costa,F32.9
+P0873,Paciente 0873,271,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 973",Zona Industrial,Ana Paula,F80.0
+P0874,Paciente 0874,278,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 974",Vila Nova,Carlos Mendes,F41.0
+P0875,Paciente 0875,285,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 975",Centro,Lucia Ferreira,M25.9
+P0876,Paciente 0876,292,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 976",Norte,João Silva,F43.1
+P0877,Paciente 0877,299,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 977",Sul,Maria Santos,F80.1
+P0878,Paciente 0878,306,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 978",Leste,Pedro Costa,F41.2
+P0879,Paciente 0879,313,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 979",Oeste,Ana Paula,M54.1
+P0880,Paciente 0880,320,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 980",Zona Industrial,Carlos Mendes,F41.1
+P0881,Paciente 0881,327,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 981",Vila Nova,Lucia Ferreira,M54.0
+P0882,Paciente 0882,334,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 982",Centro,João Silva,F32.9
+P0883,Paciente 0883,341,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 983",Norte,Maria Santos,F80.0
+P0884,Paciente 0884,348,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 984",Sul,Pedro Costa,F41.0
+P0885,Paciente 0885,355,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 985",Leste,Ana Paula,M25.9
+P0886,Paciente 0886,362,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 986",Oeste,Carlos Mendes,F43.1
+P0887,Paciente 0887,4,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 987",Zona Industrial,Lucia Ferreira,F80.1
+P0888,Paciente 0888,11,Psicologia,Individual,Semanal,USF Leste,"Rua I, 988",Vila Nova,João Silva,F41.2
+P0889,Paciente 0889,18,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 989",Centro,Maria Santos,M54.1
+P0890,Paciente 0890,25,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 990",Norte,Pedro Costa,F41.1
+P0891,Paciente 0891,32,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 991",Sul,Ana Paula,M54.0
+P0892,Paciente 0892,39,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 992",Leste,Carlos Mendes,F32.9
+P0893,Paciente 0893,46,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 993",Oeste,Lucia Ferreira,F80.0
+P0894,Paciente 0894,53,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 994",Zona Industrial,João Silva,F41.0
+P0895,Paciente 0895,60,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 995",Vila Nova,Maria Santos,M25.9
+P0896,Paciente 0896,67,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 996",Centro,Pedro Costa,F43.1
+P0897,Paciente 0897,74,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 997",Norte,Ana Paula,F80.1
+P0898,Paciente 0898,81,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 998",Sul,Carlos Mendes,F41.2
+P0899,Paciente 0899,88,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 999",Leste,Lucia Ferreira,M54.1
+P0900,Paciente 0900,95,Psicologia,Individual,Semanal,USF Centro,"Rua A, 100",Oeste,João Silva,F41.1
+P0901,Paciente 0901,102,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 101",Zona Industrial,Maria Santos,M54.0
+P0902,Paciente 0902,109,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 102",Vila Nova,Pedro Costa,F32.9
+P0903,Paciente 0903,116,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 103",Centro,Ana Paula,F80.0
+P0904,Paciente 0904,123,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 104",Norte,Carlos Mendes,F41.0
+P0905,Paciente 0905,130,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 105",Sul,Lucia Ferreira,M25.9
+P0906,Paciente 0906,137,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 106",Leste,João Silva,F43.1
+P0907,Paciente 0907,144,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 107",Oeste,Maria Santos,F80.1
+P0908,Paciente 0908,151,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 108",Zona Industrial,Pedro Costa,F41.2
+P0909,Paciente 0909,158,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 109",Vila Nova,Ana Paula,M54.1
+P0910,Paciente 0910,165,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 110",Centro,Carlos Mendes,F41.1
+P0911,Paciente 0911,172,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 111",Norte,Lucia Ferreira,M54.0
+P0912,Paciente 0912,179,Psicologia,Individual,Semanal,USF Sul,"Rua M, 112",Sul,João Silva,F32.9
+P0913,Paciente 0913,186,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 113",Leste,Maria Santos,F80.0
+P0914,Paciente 0914,193,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 114",Oeste,Pedro Costa,F41.0
+P0915,Paciente 0915,200,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 115",Zona Industrial,Ana Paula,M25.9
+P0916,Paciente 0916,207,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 116",Vila Nova,Carlos Mendes,F43.1
+P0917,Paciente 0917,214,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 117",Centro,Lucia Ferreira,F80.1
+P0918,Paciente 0918,221,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 118",Norte,João Silva,F41.2
+P0919,Paciente 0919,228,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 119",Sul,Maria Santos,M54.1
+P0920,Paciente 0920,235,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 120",Leste,Pedro Costa,F41.1
+P0921,Paciente 0921,242,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 121",Oeste,Ana Paula,M54.0
+P0922,Paciente 0922,249,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 122",Zona Industrial,Carlos Mendes,F32.9
+P0923,Paciente 0923,256,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 123",Vila Nova,Lucia Ferreira,F80.0
+P0924,Paciente 0924,263,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 124",Centro,João Silva,F41.0
+P0925,Paciente 0925,270,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 125",Norte,Maria Santos,M25.9
+P0926,Paciente 0926,277,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 126",Sul,Pedro Costa,F43.1
+P0927,Paciente 0927,284,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 127",Leste,Ana Paula,F80.1
+P0928,Paciente 0928,291,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 128",Oeste,Carlos Mendes,F41.2
+P0929,Paciente 0929,298,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 129",Zona Industrial,Lucia Ferreira,M54.1
+P0930,Paciente 0930,305,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 130",Vila Nova,João Silva,F41.1
+P0931,Paciente 0931,312,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 131",Centro,Maria Santos,M54.0
+P0932,Paciente 0932,319,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 132",Norte,Pedro Costa,F32.9
+P0933,Paciente 0933,326,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 133",Sul,Ana Paula,F80.0
+P0934,Paciente 0934,333,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 134",Leste,Carlos Mendes,F41.0
+P0935,Paciente 0935,340,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 135",Oeste,Lucia Ferreira,M25.9
+P0936,Paciente 0936,347,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 136",Zona Industrial,João Silva,F43.1
+P0937,Paciente 0937,354,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 137",Vila Nova,Maria Santos,F80.1
+P0938,Paciente 0938,361,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 138",Centro,Pedro Costa,F41.2
+P0939,Paciente 0939,3,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 139",Norte,Ana Paula,M54.1
+P0940,Paciente 0940,10,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 140",Sul,Carlos Mendes,F41.1
+P0941,Paciente 0941,17,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 141",Leste,Lucia Ferreira,M54.0
+P0942,Paciente 0942,24,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 142",Oeste,João Silva,F32.9
+P0943,Paciente 0943,31,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 143",Zona Industrial,Maria Santos,F80.0
+P0944,Paciente 0944,38,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 144",Vila Nova,Pedro Costa,F41.0
+P0945,Paciente 0945,45,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 145",Centro,Ana Paula,M25.9
+P0946,Paciente 0946,52,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 146",Norte,Carlos Mendes,F43.1
+P0947,Paciente 0947,59,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 147",Sul,Lucia Ferreira,F80.1
+P0948,Paciente 0948,66,Psicologia,Individual,Semanal,USF Leste,"Rua I, 148",Leste,João Silva,F41.2
+P0949,Paciente 0949,73,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 149",Oeste,Maria Santos,M54.1
+P0950,Paciente 0950,80,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 150",Zona Industrial,Pedro Costa,F41.1
+P0951,Paciente 0951,87,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 151",Vila Nova,Ana Paula,M54.0
+P0952,Paciente 0952,94,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 152",Centro,Carlos Mendes,F32.9
+P0953,Paciente 0953,101,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 153",Norte,Lucia Ferreira,F80.0
+P0954,Paciente 0954,108,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 154",Sul,João Silva,F41.0
+P0955,Paciente 0955,115,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 155",Leste,Maria Santos,M25.9
+P0956,Paciente 0956,122,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 156",Oeste,Pedro Costa,F43.1
+P0957,Paciente 0957,129,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 157",Zona Industrial,Ana Paula,F80.1
+P0958,Paciente 0958,136,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 158",Vila Nova,Carlos Mendes,F41.2
+P0959,Paciente 0959,143,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 159",Centro,Lucia Ferreira,M54.1
+P0960,Paciente 0960,150,Psicologia,Individual,Semanal,USF Centro,"Rua A, 160",Norte,João Silva,F41.1
+P0961,Paciente 0961,157,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 161",Sul,Maria Santos,M54.0
+P0962,Paciente 0962,164,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 162",Leste,Pedro Costa,F32.9
+P0963,Paciente 0963,171,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 163",Oeste,Ana Paula,F80.0
+P0964,Paciente 0964,178,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 164",Zona Industrial,Carlos Mendes,F41.0
+P0965,Paciente 0965,185,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 165",Vila Nova,Lucia Ferreira,M25.9
+P0966,Paciente 0966,192,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 166",Centro,João Silva,F43.1
+P0967,Paciente 0967,199,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 167",Norte,Maria Santos,F80.1
+P0968,Paciente 0968,206,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 168",Sul,Pedro Costa,F41.2
+P0969,Paciente 0969,213,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 169",Leste,Ana Paula,M54.1
+P0970,Paciente 0970,220,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 170",Oeste,Carlos Mendes,F41.1
+P0971,Paciente 0971,227,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 171",Zona Industrial,Lucia Ferreira,M54.0
+P0972,Paciente 0972,234,Psicologia,Individual,Semanal,USF Sul,"Rua M, 172",Vila Nova,João Silva,F32.9
+P0973,Paciente 0973,241,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 173",Centro,Maria Santos,F80.0
+P0974,Paciente 0974,248,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 174",Norte,Pedro Costa,F41.0
+P0975,Paciente 0975,255,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 175",Sul,Ana Paula,M25.9
+P0976,Paciente 0976,262,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 176",Leste,Carlos Mendes,F43.1
+P0977,Paciente 0977,269,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 177",Oeste,Lucia Ferreira,F80.1
+P0978,Paciente 0978,276,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 178",Zona Industrial,João Silva,F41.2
+P0979,Paciente 0979,283,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 179",Vila Nova,Maria Santos,M54.1
+P0980,Paciente 0980,290,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 180",Centro,Pedro Costa,F41.1
+P0981,Paciente 0981,297,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 181",Norte,Ana Paula,M54.0
+P0982,Paciente 0982,304,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 182",Sul,Carlos Mendes,F32.9
+P0983,Paciente 0983,311,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 183",Leste,Lucia Ferreira,F80.0
+P0984,Paciente 0984,318,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 184",Oeste,João Silva,F41.0
+P0985,Paciente 0985,325,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 185",Zona Industrial,Maria Santos,M25.9
+P0986,Paciente 0986,332,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 186",Vila Nova,Pedro Costa,F43.1
+P0987,Paciente 0987,339,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 187",Centro,Ana Paula,F80.1
+P0988,Paciente 0988,346,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 188",Norte,Carlos Mendes,F41.2
+P0989,Paciente 0989,353,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 189",Sul,Lucia Ferreira,M54.1
+P0990,Paciente 0990,360,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 190",Leste,João Silva,F41.1
+P0991,Paciente 0991,2,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 191",Oeste,Maria Santos,M54.0
+P0992,Paciente 0992,9,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 192",Zona Industrial,Pedro Costa,F32.9
+P0993,Paciente 0993,16,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 193",Vila Nova,Ana Paula,F80.0
+P0994,Paciente 0994,23,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 194",Centro,Carlos Mendes,F41.0
+P0995,Paciente 0995,30,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 195",Norte,Lucia Ferreira,M25.9
+P0996,Paciente 0996,37,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 196",Sul,João Silva,F43.1
+P0997,Paciente 0997,44,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 197",Leste,Maria Santos,F80.1
+P0998,Paciente 0998,51,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 198",Oeste,Pedro Costa,F41.2
+P0999,Paciente 0999,58,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 199",Zona Industrial,Ana Paula,M54.1
+P1000,Paciente 1000,65,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 200",Vila Nova,Carlos Mendes,F41.1
+P1001,Paciente 1001,72,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 201",Centro,Lucia Ferreira,M54.0
+P1002,Paciente 1002,79,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 202",Norte,João Silva,F32.9
+P1003,Paciente 1003,86,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 203",Sul,Maria Santos,F80.0
+P1004,Paciente 1004,93,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 204",Leste,Pedro Costa,F41.0
+P1005,Paciente 1005,100,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 205",Oeste,Ana Paula,M25.9
+P1006,Paciente 1006,107,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 206",Zona Industrial,Carlos Mendes,F43.1
+P1007,Paciente 1007,114,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 207",Vila Nova,Lucia Ferreira,F80.1
+P1008,Paciente 1008,121,Psicologia,Individual,Semanal,USF Leste,"Rua I, 208",Centro,João Silva,F41.2
+P1009,Paciente 1009,128,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 209",Norte,Maria Santos,M54.1
+P1010,Paciente 1010,135,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 210",Sul,Pedro Costa,F41.1
+P1011,Paciente 1011,142,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 211",Leste,Ana Paula,M54.0
+P1012,Paciente 1012,149,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 212",Oeste,Carlos Mendes,F32.9
+P1013,Paciente 1013,156,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 213",Zona Industrial,Lucia Ferreira,F80.0
+P1014,Paciente 1014,163,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 214",Vila Nova,João Silva,F41.0
+P1015,Paciente 1015,170,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 215",Centro,Maria Santos,M25.9
+P1016,Paciente 1016,177,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 216",Norte,Pedro Costa,F43.1
+P1017,Paciente 1017,184,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 217",Sul,Ana Paula,F80.1
+P1018,Paciente 1018,191,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 218",Leste,Carlos Mendes,F41.2
+P1019,Paciente 1019,198,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 219",Oeste,Lucia Ferreira,M54.1
+P1020,Paciente 1020,205,Psicologia,Individual,Semanal,USF Centro,"Rua A, 220",Zona Industrial,João Silva,F41.1
+P1021,Paciente 1021,212,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 221",Vila Nova,Maria Santos,M54.0
+P1022,Paciente 1022,219,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 222",Centro,Pedro Costa,F32.9
+P1023,Paciente 1023,226,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 223",Norte,Ana Paula,F80.0
+P1024,Paciente 1024,233,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 224",Sul,Carlos Mendes,F41.0
+P1025,Paciente 1025,240,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 225",Leste,Lucia Ferreira,M25.9
+P1026,Paciente 1026,247,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 226",Oeste,João Silva,F43.1
+P1027,Paciente 1027,254,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 227",Zona Industrial,Maria Santos,F80.1
+P1028,Paciente 1028,261,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 228",Vila Nova,Pedro Costa,F41.2
+P1029,Paciente 1029,268,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 229",Centro,Ana Paula,M54.1
+P1030,Paciente 1030,275,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 230",Norte,Carlos Mendes,F41.1
+P1031,Paciente 1031,282,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 231",Sul,Lucia Ferreira,M54.0
+P1032,Paciente 1032,289,Psicologia,Individual,Semanal,USF Sul,"Rua M, 232",Leste,João Silva,F32.9
+P1033,Paciente 1033,296,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 233",Oeste,Maria Santos,F80.0
+P1034,Paciente 1034,303,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 234",Zona Industrial,Pedro Costa,F41.0
+P1035,Paciente 1035,310,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 235",Vila Nova,Ana Paula,M25.9
+P1036,Paciente 1036,317,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 236",Centro,Carlos Mendes,F43.1
+P1037,Paciente 1037,324,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 237",Norte,Lucia Ferreira,F80.1
+P1038,Paciente 1038,331,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 238",Sul,João Silva,F41.2
+P1039,Paciente 1039,338,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 239",Leste,Maria Santos,M54.1
+P1040,Paciente 1040,345,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 240",Oeste,Pedro Costa,F41.1
+P1041,Paciente 1041,352,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 241",Zona Industrial,Ana Paula,M54.0
+P1042,Paciente 1042,359,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 242",Vila Nova,Carlos Mendes,F32.9
+P1043,Paciente 1043,1,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 243",Centro,Lucia Ferreira,F80.0
+P1044,Paciente 1044,8,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 244",Norte,João Silva,F41.0
+P1045,Paciente 1045,15,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 245",Sul,Maria Santos,M25.9
+P1046,Paciente 1046,22,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 246",Leste,Pedro Costa,F43.1
+P1047,Paciente 1047,29,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 247",Oeste,Ana Paula,F80.1
+P1048,Paciente 1048,36,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 248",Zona Industrial,Carlos Mendes,F41.2
+P1049,Paciente 1049,43,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 249",Vila Nova,Lucia Ferreira,M54.1
+P1050,Paciente 1050,50,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 250",Centro,João Silva,F41.1
+P1051,Paciente 1051,57,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 251",Norte,Maria Santos,M54.0
+P1052,Paciente 1052,64,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 252",Sul,Pedro Costa,F32.9
+P1053,Paciente 1053,71,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 253",Leste,Ana Paula,F80.0
+P1054,Paciente 1054,78,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 254",Oeste,Carlos Mendes,F41.0
+P1055,Paciente 1055,85,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 255",Zona Industrial,Lucia Ferreira,M25.9
+P1056,Paciente 1056,92,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 256",Vila Nova,João Silva,F43.1
+P1057,Paciente 1057,99,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 257",Centro,Maria Santos,F80.1
+P1058,Paciente 1058,106,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 258",Norte,Pedro Costa,F41.2
+P1059,Paciente 1059,113,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 259",Sul,Ana Paula,M54.1
+P1060,Paciente 1060,120,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 260",Leste,Carlos Mendes,F41.1
+P1061,Paciente 1061,127,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 261",Oeste,Lucia Ferreira,M54.0
+P1062,Paciente 1062,134,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 262",Zona Industrial,João Silva,F32.9
+P1063,Paciente 1063,141,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 263",Vila Nova,Maria Santos,F80.0
+P1064,Paciente 1064,148,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 264",Centro,Pedro Costa,F41.0
+P1065,Paciente 1065,155,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 265",Norte,Ana Paula,M25.9
+P1066,Paciente 1066,162,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 266",Sul,Carlos Mendes,F43.1
+P1067,Paciente 1067,169,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 267",Leste,Lucia Ferreira,F80.1
+P1068,Paciente 1068,176,Psicologia,Individual,Semanal,USF Leste,"Rua I, 268",Oeste,João Silva,F41.2
+P1069,Paciente 1069,183,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 269",Zona Industrial,Maria Santos,M54.1
+P1070,Paciente 1070,190,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 270",Vila Nova,Pedro Costa,F41.1
+P1071,Paciente 1071,197,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 271",Centro,Ana Paula,M54.0
+P1072,Paciente 1072,204,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 272",Norte,Carlos Mendes,F32.9
+P1073,Paciente 1073,211,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 273",Sul,Lucia Ferreira,F80.0
+P1074,Paciente 1074,218,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 274",Leste,João Silva,F41.0
+P1075,Paciente 1075,225,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 275",Oeste,Maria Santos,M25.9
+P1076,Paciente 1076,232,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 276",Zona Industrial,Pedro Costa,F43.1
+P1077,Paciente 1077,239,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 277",Vila Nova,Ana Paula,F80.1
+P1078,Paciente 1078,246,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 278",Centro,Carlos Mendes,F41.2
+P1079,Paciente 1079,253,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 279",Norte,Lucia Ferreira,M54.1
+P1080,Paciente 1080,260,Psicologia,Individual,Semanal,USF Centro,"Rua A, 280",Sul,João Silva,F41.1
+P1081,Paciente 1081,267,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 281",Leste,Maria Santos,M54.0
+P1082,Paciente 1082,274,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 282",Oeste,Pedro Costa,F32.9
+P1083,Paciente 1083,281,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 283",Zona Industrial,Ana Paula,F80.0
+P1084,Paciente 1084,288,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 284",Vila Nova,Carlos Mendes,F41.0
+P1085,Paciente 1085,295,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 285",Centro,Lucia Ferreira,M25.9
+P1086,Paciente 1086,302,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 286",Norte,João Silva,F43.1
+P1087,Paciente 1087,309,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 287",Sul,Maria Santos,F80.1
+P1088,Paciente 1088,316,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 288",Leste,Pedro Costa,F41.2
+P1089,Paciente 1089,323,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 289",Oeste,Ana Paula,M54.1
+P1090,Paciente 1090,330,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 290",Zona Industrial,Carlos Mendes,F41.1
+P1091,Paciente 1091,337,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 291",Vila Nova,Lucia Ferreira,M54.0
+P1092,Paciente 1092,344,Psicologia,Individual,Semanal,USF Sul,"Rua M, 292",Centro,João Silva,F32.9
+P1093,Paciente 1093,351,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 293",Norte,Maria Santos,F80.0
+P1094,Paciente 1094,358,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 294",Sul,Pedro Costa,F41.0
+P1095,Paciente 1095,0,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 295",Leste,Ana Paula,M25.9
+P1096,Paciente 1096,7,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 296",Oeste,Carlos Mendes,F43.1
+P1097,Paciente 1097,14,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 297",Zona Industrial,Lucia Ferreira,F80.1
+P1098,Paciente 1098,21,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 298",Vila Nova,João Silva,F41.2
+P1099,Paciente 1099,28,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 299",Centro,Maria Santos,M54.1
+P1100,Paciente 1100,35,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 300",Norte,Pedro Costa,F41.1
+P1101,Paciente 1101,42,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 301",Sul,Ana Paula,M54.0
+P1102,Paciente 1102,49,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 302",Leste,Carlos Mendes,F32.9
+P1103,Paciente 1103,56,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 303",Oeste,Lucia Ferreira,F80.0
+P1104,Paciente 1104,63,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 304",Zona Industrial,João Silva,F41.0
+P1105,Paciente 1105,70,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 305",Vila Nova,Maria Santos,M25.9
+P1106,Paciente 1106,77,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 306",Centro,Pedro Costa,F43.1
+P1107,Paciente 1107,84,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 307",Norte,Ana Paula,F80.1
+P1108,Paciente 1108,91,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 308",Sul,Carlos Mendes,F41.2
+P1109,Paciente 1109,98,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 309",Leste,Lucia Ferreira,M54.1
+P1110,Paciente 1110,105,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 310",Oeste,João Silva,F41.1
+P1111,Paciente 1111,112,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 311",Zona Industrial,Maria Santos,M54.0
+P1112,Paciente 1112,119,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 312",Vila Nova,Pedro Costa,F32.9
+P1113,Paciente 1113,126,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 313",Centro,Ana Paula,F80.0
+P1114,Paciente 1114,133,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 314",Norte,Carlos Mendes,F41.0
+P1115,Paciente 1115,140,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 315",Sul,Lucia Ferreira,M25.9
+P1116,Paciente 1116,147,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 316",Leste,João Silva,F43.1
+P1117,Paciente 1117,154,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 317",Oeste,Maria Santos,F80.1
+P1118,Paciente 1118,161,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 318",Zona Industrial,Pedro Costa,F41.2
+P1119,Paciente 1119,168,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 319",Vila Nova,Ana Paula,M54.1
+P1120,Paciente 1120,175,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 320",Centro,Carlos Mendes,F41.1
+P1121,Paciente 1121,182,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 321",Norte,Lucia Ferreira,M54.0
+P1122,Paciente 1122,189,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 322",Sul,João Silva,F32.9
+P1123,Paciente 1123,196,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 323",Leste,Maria Santos,F80.0
+P1124,Paciente 1124,203,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 324",Oeste,Pedro Costa,F41.0
+P1125,Paciente 1125,210,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 325",Zona Industrial,Ana Paula,M25.9
+P1126,Paciente 1126,217,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 326",Vila Nova,Carlos Mendes,F43.1
+P1127,Paciente 1127,224,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 327",Centro,Lucia Ferreira,F80.1
+P1128,Paciente 1128,231,Psicologia,Individual,Semanal,USF Leste,"Rua I, 328",Norte,João Silva,F41.2
+P1129,Paciente 1129,238,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 329",Sul,Maria Santos,M54.1
+P1130,Paciente 1130,245,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 330",Leste,Pedro Costa,F41.1
+P1131,Paciente 1131,252,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 331",Oeste,Ana Paula,M54.0
+P1132,Paciente 1132,259,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 332",Zona Industrial,Carlos Mendes,F32.9
+P1133,Paciente 1133,266,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 333",Vila Nova,Lucia Ferreira,F80.0
+P1134,Paciente 1134,273,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 334",Centro,João Silva,F41.0
+P1135,Paciente 1135,280,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 335",Norte,Maria Santos,M25.9
+P1136,Paciente 1136,287,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 336",Sul,Pedro Costa,F43.1
+P1137,Paciente 1137,294,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 337",Leste,Ana Paula,F80.1
+P1138,Paciente 1138,301,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 338",Oeste,Carlos Mendes,F41.2
+P1139,Paciente 1139,308,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 339",Zona Industrial,Lucia Ferreira,M54.1
+P1140,Paciente 1140,315,Psicologia,Individual,Semanal,USF Centro,"Rua A, 340",Vila Nova,João Silva,F41.1
+P1141,Paciente 1141,322,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 341",Centro,Maria Santos,M54.0
+P1142,Paciente 1142,329,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 342",Norte,Pedro Costa,F32.9
+P1143,Paciente 1143,336,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 343",Sul,Ana Paula,F80.0
+P1144,Paciente 1144,343,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 344",Leste,Carlos Mendes,F41.0
+P1145,Paciente 1145,350,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 345",Oeste,Lucia Ferreira,M25.9
+P1146,Paciente 1146,357,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 346",Zona Industrial,João Silva,F43.1
+P1147,Paciente 1147,364,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 347",Vila Nova,Maria Santos,F80.1
+P1148,Paciente 1148,6,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 348",Centro,Pedro Costa,F41.2
+P1149,Paciente 1149,13,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 349",Norte,Ana Paula,M54.1
+P1150,Paciente 1150,20,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 350",Sul,Carlos Mendes,F41.1
+P1151,Paciente 1151,27,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 351",Leste,Lucia Ferreira,M54.0
+P1152,Paciente 1152,34,Psicologia,Individual,Semanal,USF Sul,"Rua M, 352",Oeste,João Silva,F32.9
+P1153,Paciente 1153,41,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 353",Zona Industrial,Maria Santos,F80.0
+P1154,Paciente 1154,48,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 354",Vila Nova,Pedro Costa,F41.0
+P1155,Paciente 1155,55,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 355",Centro,Ana Paula,M25.9
+P1156,Paciente 1156,62,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 356",Norte,Carlos Mendes,F43.1
+P1157,Paciente 1157,69,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 357",Sul,Lucia Ferreira,F80.1
+P1158,Paciente 1158,76,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 358",Leste,João Silva,F41.2
+P1159,Paciente 1159,83,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 359",Oeste,Maria Santos,M54.1
+P1160,Paciente 1160,90,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 360",Zona Industrial,Pedro Costa,F41.1
+P1161,Paciente 1161,97,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 361",Vila Nova,Ana Paula,M54.0
+P1162,Paciente 1162,104,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 362",Centro,Carlos Mendes,F32.9
+P1163,Paciente 1163,111,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 363",Norte,Lucia Ferreira,F80.0
+P1164,Paciente 1164,118,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 364",Sul,João Silva,F41.0
+P1165,Paciente 1165,125,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 365",Leste,Maria Santos,M25.9
+P1166,Paciente 1166,132,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 366",Oeste,Pedro Costa,F43.1
+P1167,Paciente 1167,139,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 367",Zona Industrial,Ana Paula,F80.1
+P1168,Paciente 1168,146,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 368",Vila Nova,Carlos Mendes,F41.2
+P1169,Paciente 1169,153,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 369",Centro,Lucia Ferreira,M54.1
+P1170,Paciente 1170,160,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 370",Norte,João Silva,F41.1
+P1171,Paciente 1171,167,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 371",Sul,Maria Santos,M54.0
+P1172,Paciente 1172,174,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 372",Leste,Pedro Costa,F32.9
+P1173,Paciente 1173,181,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 373",Oeste,Ana Paula,F80.0
+P1174,Paciente 1174,188,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 374",Zona Industrial,Carlos Mendes,F41.0
+P1175,Paciente 1175,195,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 375",Vila Nova,Lucia Ferreira,M25.9
+P1176,Paciente 1176,202,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 376",Centro,João Silva,F43.1
+P1177,Paciente 1177,209,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 377",Norte,Maria Santos,F80.1
+P1178,Paciente 1178,216,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 378",Sul,Pedro Costa,F41.2
+P1179,Paciente 1179,223,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 379",Leste,Ana Paula,M54.1
+P1180,Paciente 1180,230,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 380",Oeste,Carlos Mendes,F41.1
+P1181,Paciente 1181,237,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 381",Zona Industrial,Lucia Ferreira,M54.0
+P1182,Paciente 1182,244,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 382",Vila Nova,João Silva,F32.9
+P1183,Paciente 1183,251,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 383",Centro,Maria Santos,F80.0
+P1184,Paciente 1184,258,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 384",Norte,Pedro Costa,F41.0
+P1185,Paciente 1185,265,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 385",Sul,Ana Paula,M25.9
+P1186,Paciente 1186,272,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 386",Leste,Carlos Mendes,F43.1
+P1187,Paciente 1187,279,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 387",Oeste,Lucia Ferreira,F80.1
+P1188,Paciente 1188,286,Psicologia,Individual,Semanal,USF Leste,"Rua I, 388",Zona Industrial,João Silva,F41.2
+P1189,Paciente 1189,293,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 389",Vila Nova,Maria Santos,M54.1
+P1190,Paciente 1190,300,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 390",Centro,Pedro Costa,F41.1
+P1191,Paciente 1191,307,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 391",Norte,Ana Paula,M54.0
+P1192,Paciente 1192,314,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 392",Sul,Carlos Mendes,F32.9
+P1193,Paciente 1193,321,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 393",Leste,Lucia Ferreira,F80.0
+P1194,Paciente 1194,328,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 394",Oeste,João Silva,F41.0
+P1195,Paciente 1195,335,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 395",Zona Industrial,Maria Santos,M25.9
+P1196,Paciente 1196,342,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 396",Vila Nova,Pedro Costa,F43.1
+P1197,Paciente 1197,349,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 397",Centro,Ana Paula,F80.1
+P1198,Paciente 1198,356,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 398",Norte,Carlos Mendes,F41.2
+P1199,Paciente 1199,363,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 399",Sul,Lucia Ferreira,M54.1
+P1200,Paciente 1200,5,Psicologia,Individual,Semanal,USF Centro,"Rua A, 400",Leste,João Silva,F41.1
+P1201,Paciente 1201,12,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 401",Oeste,Maria Santos,M54.0
+P1202,Paciente 1202,19,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 402",Zona Industrial,Pedro Costa,F32.9
+P1203,Paciente 1203,26,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 403",Vila Nova,Ana Paula,F80.0
+P1204,Paciente 1204,33,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 404",Centro,Carlos Mendes,F41.0
+P1205,Paciente 1205,40,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 405",Norte,Lucia Ferreira,M25.9
+P1206,Paciente 1206,47,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 406",Sul,João Silva,F43.1
+P1207,Paciente 1207,54,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 407",Leste,Maria Santos,F80.1
+P1208,Paciente 1208,61,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 408",Oeste,Pedro Costa,F41.2
+P1209,Paciente 1209,68,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 409",Zona Industrial,Ana Paula,M54.1
+P1210,Paciente 1210,75,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 410",Vila Nova,Carlos Mendes,F41.1
+P1211,Paciente 1211,82,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 411",Centro,Lucia Ferreira,M54.0
+P1212,Paciente 1212,89,Psicologia,Individual,Semanal,USF Sul,"Rua M, 412",Norte,João Silva,F32.9
+P1213,Paciente 1213,96,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 413",Sul,Maria Santos,F80.0
+P1214,Paciente 1214,103,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 414",Leste,Pedro Costa,F41.0
+P1215,Paciente 1215,110,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 415",Oeste,Ana Paula,M25.9
+P1216,Paciente 1216,117,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 416",Zona Industrial,Carlos Mendes,F43.1
+P1217,Paciente 1217,124,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 417",Vila Nova,Lucia Ferreira,F80.1
+P1218,Paciente 1218,131,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 418",Centro,João Silva,F41.2
+P1219,Paciente 1219,138,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 419",Norte,Maria Santos,M54.1
+P1220,Paciente 1220,145,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 420",Sul,Pedro Costa,F41.1
+P1221,Paciente 1221,152,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 421",Leste,Ana Paula,M54.0
+P1222,Paciente 1222,159,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 422",Oeste,Carlos Mendes,F32.9
+P1223,Paciente 1223,166,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 423",Zona Industrial,Lucia Ferreira,F80.0
+P1224,Paciente 1224,173,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 424",Vila Nova,João Silva,F41.0
+P1225,Paciente 1225,180,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 425",Centro,Maria Santos,M25.9
+P1226,Paciente 1226,187,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 426",Norte,Pedro Costa,F43.1
+P1227,Paciente 1227,194,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 427",Sul,Ana Paula,F80.1
+P1228,Paciente 1228,201,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 428",Leste,Carlos Mendes,F41.2
+P1229,Paciente 1229,208,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 429",Oeste,Lucia Ferreira,M54.1
+P1230,Paciente 1230,215,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 430",Zona Industrial,João Silva,F41.1
+P1231,Paciente 1231,222,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 431",Vila Nova,Maria Santos,M54.0
+P1232,Paciente 1232,229,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 432",Centro,Pedro Costa,F32.9
+P1233,Paciente 1233,236,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 433",Norte,Ana Paula,F80.0
+P1234,Paciente 1234,243,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 434",Sul,Carlos Mendes,F41.0
+P1235,Paciente 1235,250,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 435",Leste,Lucia Ferreira,M25.9
+P1236,Paciente 1236,257,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 436",Oeste,João Silva,F43.1
+P1237,Paciente 1237,264,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 437",Zona Industrial,Maria Santos,F80.1
+P1238,Paciente 1238,271,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 438",Vila Nova,Pedro Costa,F41.2
+P1239,Paciente 1239,278,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 439",Centro,Ana Paula,M54.1
+P1240,Paciente 1240,285,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 440",Norte,Carlos Mendes,F41.1
+P1241,Paciente 1241,292,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 441",Sul,Lucia Ferreira,M54.0
+P1242,Paciente 1242,299,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 442",Leste,João Silva,F32.9
+P1243,Paciente 1243,306,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 443",Oeste,Maria Santos,F80.0
+P1244,Paciente 1244,313,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 444",Zona Industrial,Pedro Costa,F41.0
+P1245,Paciente 1245,320,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 445",Vila Nova,Ana Paula,M25.9
+P1246,Paciente 1246,327,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 446",Centro,Carlos Mendes,F43.1
+P1247,Paciente 1247,334,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 447",Norte,Lucia Ferreira,F80.1
+P1248,Paciente 1248,341,Psicologia,Individual,Semanal,USF Leste,"Rua I, 448",Sul,João Silva,F41.2
+P1249,Paciente 1249,348,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 449",Leste,Maria Santos,M54.1
+P1250,Paciente 1250,355,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 450",Oeste,Pedro Costa,F41.1
+P1251,Paciente 1251,362,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 451",Zona Industrial,Ana Paula,M54.0
+P1252,Paciente 1252,4,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 452",Vila Nova,Carlos Mendes,F32.9
+P1253,Paciente 1253,11,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 453",Centro,Lucia Ferreira,F80.0
+P1254,Paciente 1254,18,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 454",Norte,João Silva,F41.0
+P1255,Paciente 1255,25,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 455",Sul,Maria Santos,M25.9
+P1256,Paciente 1256,32,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 456",Leste,Pedro Costa,F43.1
+P1257,Paciente 1257,39,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 457",Oeste,Ana Paula,F80.1
+P1258,Paciente 1258,46,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 458",Zona Industrial,Carlos Mendes,F41.2
+P1259,Paciente 1259,53,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 459",Vila Nova,Lucia Ferreira,M54.1
+P1260,Paciente 1260,60,Psicologia,Individual,Semanal,USF Centro,"Rua A, 460",Centro,João Silva,F41.1
+P1261,Paciente 1261,67,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 461",Norte,Maria Santos,M54.0
+P1262,Paciente 1262,74,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 462",Sul,Pedro Costa,F32.9
+P1263,Paciente 1263,81,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 463",Leste,Ana Paula,F80.0
+P1264,Paciente 1264,88,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 464",Oeste,Carlos Mendes,F41.0
+P1265,Paciente 1265,95,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 465",Zona Industrial,Lucia Ferreira,M25.9
+P1266,Paciente 1266,102,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 466",Vila Nova,João Silva,F43.1
+P1267,Paciente 1267,109,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 467",Centro,Maria Santos,F80.1
+P1268,Paciente 1268,116,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 468",Norte,Pedro Costa,F41.2
+P1269,Paciente 1269,123,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 469",Sul,Ana Paula,M54.1
+P1270,Paciente 1270,130,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 470",Leste,Carlos Mendes,F41.1
+P1271,Paciente 1271,137,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 471",Oeste,Lucia Ferreira,M54.0
+P1272,Paciente 1272,144,Psicologia,Individual,Semanal,USF Sul,"Rua M, 472",Zona Industrial,João Silva,F32.9
+P1273,Paciente 1273,151,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 473",Vila Nova,Maria Santos,F80.0
+P1274,Paciente 1274,158,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 474",Centro,Pedro Costa,F41.0
+P1275,Paciente 1275,165,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 475",Norte,Ana Paula,M25.9
+P1276,Paciente 1276,172,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 476",Sul,Carlos Mendes,F43.1
+P1277,Paciente 1277,179,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 477",Leste,Lucia Ferreira,F80.1
+P1278,Paciente 1278,186,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 478",Oeste,João Silva,F41.2
+P1279,Paciente 1279,193,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 479",Zona Industrial,Maria Santos,M54.1
+P1280,Paciente 1280,200,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 480",Vila Nova,Pedro Costa,F41.1
+P1281,Paciente 1281,207,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 481",Centro,Ana Paula,M54.0
+P1282,Paciente 1282,214,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 482",Norte,Carlos Mendes,F32.9
+P1283,Paciente 1283,221,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 483",Sul,Lucia Ferreira,F80.0
+P1284,Paciente 1284,228,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 484",Leste,João Silva,F41.0
+P1285,Paciente 1285,235,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 485",Oeste,Maria Santos,M25.9
+P1286,Paciente 1286,242,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 486",Zona Industrial,Pedro Costa,F43.1
+P1287,Paciente 1287,249,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 487",Vila Nova,Ana Paula,F80.1
+P1288,Paciente 1288,256,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 488",Centro,Carlos Mendes,F41.2
+P1289,Paciente 1289,263,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 489",Norte,Lucia Ferreira,M54.1
+P1290,Paciente 1290,270,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 490",Sul,João Silva,F41.1
+P1291,Paciente 1291,277,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 491",Leste,Maria Santos,M54.0
+P1292,Paciente 1292,284,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 492",Oeste,Pedro Costa,F32.9
+P1293,Paciente 1293,291,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 493",Zona Industrial,Ana Paula,F80.0
+P1294,Paciente 1294,298,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 494",Vila Nova,Carlos Mendes,F41.0
+P1295,Paciente 1295,305,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 495",Centro,Lucia Ferreira,M25.9
+P1296,Paciente 1296,312,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 496",Norte,João Silva,F43.1
+P1297,Paciente 1297,319,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 497",Sul,Maria Santos,F80.1
+P1298,Paciente 1298,326,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 498",Leste,Pedro Costa,F41.2
+P1299,Paciente 1299,333,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 499",Oeste,Ana Paula,M54.1
+P1300,Paciente 1300,340,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 500",Zona Industrial,Carlos Mendes,F41.1
+P1301,Paciente 1301,347,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 501",Vila Nova,Lucia Ferreira,M54.0
+P1302,Paciente 1302,354,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 502",Centro,João Silva,F32.9
+P1303,Paciente 1303,361,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 503",Norte,Maria Santos,F80.0
+P1304,Paciente 1304,3,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 504",Sul,Pedro Costa,F41.0
+P1305,Paciente 1305,10,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 505",Leste,Ana Paula,M25.9
+P1306,Paciente 1306,17,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 506",Oeste,Carlos Mendes,F43.1
+P1307,Paciente 1307,24,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 507",Zona Industrial,Lucia Ferreira,F80.1
+P1308,Paciente 1308,31,Psicologia,Individual,Semanal,USF Leste,"Rua I, 508",Vila Nova,João Silva,F41.2
+P1309,Paciente 1309,38,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 509",Centro,Maria Santos,M54.1
+P1310,Paciente 1310,45,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 510",Norte,Pedro Costa,F41.1
+P1311,Paciente 1311,52,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 511",Sul,Ana Paula,M54.0
+P1312,Paciente 1312,59,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 512",Leste,Carlos Mendes,F32.9
+P1313,Paciente 1313,66,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 513",Oeste,Lucia Ferreira,F80.0
+P1314,Paciente 1314,73,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 514",Zona Industrial,João Silva,F41.0
+P1315,Paciente 1315,80,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 515",Vila Nova,Maria Santos,M25.9
+P1316,Paciente 1316,87,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 516",Centro,Pedro Costa,F43.1
+P1317,Paciente 1317,94,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 517",Norte,Ana Paula,F80.1
+P1318,Paciente 1318,101,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 518",Sul,Carlos Mendes,F41.2
+P1319,Paciente 1319,108,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 519",Leste,Lucia Ferreira,M54.1
+P1320,Paciente 1320,115,Psicologia,Individual,Semanal,USF Centro,"Rua A, 520",Oeste,João Silva,F41.1
+P1321,Paciente 1321,122,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 521",Zona Industrial,Maria Santos,M54.0
+P1322,Paciente 1322,129,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 522",Vila Nova,Pedro Costa,F32.9
+P1323,Paciente 1323,136,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 523",Centro,Ana Paula,F80.0
+P1324,Paciente 1324,143,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 524",Norte,Carlos Mendes,F41.0
+P1325,Paciente 1325,150,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 525",Sul,Lucia Ferreira,M25.9
+P1326,Paciente 1326,157,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 526",Leste,João Silva,F43.1
+P1327,Paciente 1327,164,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 527",Oeste,Maria Santos,F80.1
+P1328,Paciente 1328,171,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 528",Zona Industrial,Pedro Costa,F41.2
+P1329,Paciente 1329,178,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 529",Vila Nova,Ana Paula,M54.1
+P1330,Paciente 1330,185,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 530",Centro,Carlos Mendes,F41.1
+P1331,Paciente 1331,192,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 531",Norte,Lucia Ferreira,M54.0
+P1332,Paciente 1332,199,Psicologia,Individual,Semanal,USF Sul,"Rua M, 532",Sul,João Silva,F32.9
+P1333,Paciente 1333,206,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 533",Leste,Maria Santos,F80.0
+P1334,Paciente 1334,213,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 534",Oeste,Pedro Costa,F41.0
+P1335,Paciente 1335,220,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 535",Zona Industrial,Ana Paula,M25.9
+P1336,Paciente 1336,227,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 536",Vila Nova,Carlos Mendes,F43.1
+P1337,Paciente 1337,234,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 537",Centro,Lucia Ferreira,F80.1
+P1338,Paciente 1338,241,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 538",Norte,João Silva,F41.2
+P1339,Paciente 1339,248,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 539",Sul,Maria Santos,M54.1
+P1340,Paciente 1340,255,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 540",Leste,Pedro Costa,F41.1
+P1341,Paciente 1341,262,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 541",Oeste,Ana Paula,M54.0
+P1342,Paciente 1342,269,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 542",Zona Industrial,Carlos Mendes,F32.9
+P1343,Paciente 1343,276,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 543",Vila Nova,Lucia Ferreira,F80.0
+P1344,Paciente 1344,283,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 544",Centro,João Silva,F41.0
+P1345,Paciente 1345,290,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 545",Norte,Maria Santos,M25.9
+P1346,Paciente 1346,297,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 546",Sul,Pedro Costa,F43.1
+P1347,Paciente 1347,304,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 547",Leste,Ana Paula,F80.1
+P1348,Paciente 1348,311,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 548",Oeste,Carlos Mendes,F41.2
+P1349,Paciente 1349,318,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 549",Zona Industrial,Lucia Ferreira,M54.1
+P1350,Paciente 1350,325,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 550",Vila Nova,João Silva,F41.1
+P1351,Paciente 1351,332,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 551",Centro,Maria Santos,M54.0
+P1352,Paciente 1352,339,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 552",Norte,Pedro Costa,F32.9
+P1353,Paciente 1353,346,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 553",Sul,Ana Paula,F80.0
+P1354,Paciente 1354,353,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 554",Leste,Carlos Mendes,F41.0
+P1355,Paciente 1355,360,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 555",Oeste,Lucia Ferreira,M25.9
+P1356,Paciente 1356,2,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 556",Zona Industrial,João Silva,F43.1
+P1357,Paciente 1357,9,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 557",Vila Nova,Maria Santos,F80.1
+P1358,Paciente 1358,16,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 558",Centro,Pedro Costa,F41.2
+P1359,Paciente 1359,23,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 559",Norte,Ana Paula,M54.1
+P1360,Paciente 1360,30,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 560",Sul,Carlos Mendes,F41.1
+P1361,Paciente 1361,37,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 561",Leste,Lucia Ferreira,M54.0
+P1362,Paciente 1362,44,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 562",Oeste,João Silva,F32.9
+P1363,Paciente 1363,51,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 563",Zona Industrial,Maria Santos,F80.0
+P1364,Paciente 1364,58,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 564",Vila Nova,Pedro Costa,F41.0
+P1365,Paciente 1365,65,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 565",Centro,Ana Paula,M25.9
+P1366,Paciente 1366,72,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 566",Norte,Carlos Mendes,F43.1
+P1367,Paciente 1367,79,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 567",Sul,Lucia Ferreira,F80.1
+P1368,Paciente 1368,86,Psicologia,Individual,Semanal,USF Leste,"Rua I, 568",Leste,João Silva,F41.2
+P1369,Paciente 1369,93,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 569",Oeste,Maria Santos,M54.1
+P1370,Paciente 1370,100,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 570",Zona Industrial,Pedro Costa,F41.1
+P1371,Paciente 1371,107,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 571",Vila Nova,Ana Paula,M54.0
+P1372,Paciente 1372,114,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 572",Centro,Carlos Mendes,F32.9
+P1373,Paciente 1373,121,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 573",Norte,Lucia Ferreira,F80.0
+P1374,Paciente 1374,128,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 574",Sul,João Silva,F41.0
+P1375,Paciente 1375,135,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 575",Leste,Maria Santos,M25.9
+P1376,Paciente 1376,142,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 576",Oeste,Pedro Costa,F43.1
+P1377,Paciente 1377,149,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 577",Zona Industrial,Ana Paula,F80.1
+P1378,Paciente 1378,156,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 578",Vila Nova,Carlos Mendes,F41.2
+P1379,Paciente 1379,163,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 579",Centro,Lucia Ferreira,M54.1
+P1380,Paciente 1380,170,Psicologia,Individual,Semanal,USF Centro,"Rua A, 580",Norte,João Silva,F41.1
+P1381,Paciente 1381,177,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 581",Sul,Maria Santos,M54.0
+P1382,Paciente 1382,184,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 582",Leste,Pedro Costa,F32.9
+P1383,Paciente 1383,191,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 583",Oeste,Ana Paula,F80.0
+P1384,Paciente 1384,198,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 584",Zona Industrial,Carlos Mendes,F41.0
+P1385,Paciente 1385,205,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 585",Vila Nova,Lucia Ferreira,M25.9
+P1386,Paciente 1386,212,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 586",Centro,João Silva,F43.1
+P1387,Paciente 1387,219,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 587",Norte,Maria Santos,F80.1
+P1388,Paciente 1388,226,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 588",Sul,Pedro Costa,F41.2
+P1389,Paciente 1389,233,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 589",Leste,Ana Paula,M54.1
+P1390,Paciente 1390,240,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 590",Oeste,Carlos Mendes,F41.1
+P1391,Paciente 1391,247,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 591",Zona Industrial,Lucia Ferreira,M54.0
+P1392,Paciente 1392,254,Psicologia,Individual,Semanal,USF Sul,"Rua M, 592",Vila Nova,João Silva,F32.9
+P1393,Paciente 1393,261,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 593",Centro,Maria Santos,F80.0
+P1394,Paciente 1394,268,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 594",Norte,Pedro Costa,F41.0
+P1395,Paciente 1395,275,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 595",Sul,Ana Paula,M25.9
+P1396,Paciente 1396,282,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 596",Leste,Carlos Mendes,F43.1
+P1397,Paciente 1397,289,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 597",Oeste,Lucia Ferreira,F80.1
+P1398,Paciente 1398,296,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 598",Zona Industrial,João Silva,F41.2
+P1399,Paciente 1399,303,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 599",Vila Nova,Maria Santos,M54.1
+P1400,Paciente 1400,310,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 600",Centro,Pedro Costa,F41.1
+P1401,Paciente 1401,317,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 601",Norte,Ana Paula,M54.0
+P1402,Paciente 1402,324,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 602",Sul,Carlos Mendes,F32.9
+P1403,Paciente 1403,331,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 603",Leste,Lucia Ferreira,F80.0
+P1404,Paciente 1404,338,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 604",Oeste,João Silva,F41.0
+P1405,Paciente 1405,345,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 605",Zona Industrial,Maria Santos,M25.9
+P1406,Paciente 1406,352,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 606",Vila Nova,Pedro Costa,F43.1
+P1407,Paciente 1407,359,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 607",Centro,Ana Paula,F80.1
+P1408,Paciente 1408,1,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 608",Norte,Carlos Mendes,F41.2
+P1409,Paciente 1409,8,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 609",Sul,Lucia Ferreira,M54.1
+P1410,Paciente 1410,15,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 610",Leste,João Silva,F41.1
+P1411,Paciente 1411,22,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 611",Oeste,Maria Santos,M54.0
+P1412,Paciente 1412,29,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 612",Zona Industrial,Pedro Costa,F32.9
+P1413,Paciente 1413,36,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 613",Vila Nova,Ana Paula,F80.0
+P1414,Paciente 1414,43,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 614",Centro,Carlos Mendes,F41.0
+P1415,Paciente 1415,50,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 615",Norte,Lucia Ferreira,M25.9
+P1416,Paciente 1416,57,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 616",Sul,João Silva,F43.1
+P1417,Paciente 1417,64,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 617",Leste,Maria Santos,F80.1
+P1418,Paciente 1418,71,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 618",Oeste,Pedro Costa,F41.2
+P1419,Paciente 1419,78,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 619",Zona Industrial,Ana Paula,M54.1
+P1420,Paciente 1420,85,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 620",Vila Nova,Carlos Mendes,F41.1
+P1421,Paciente 1421,92,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 621",Centro,Lucia Ferreira,M54.0
+P1422,Paciente 1422,99,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 622",Norte,João Silva,F32.9
+P1423,Paciente 1423,106,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 623",Sul,Maria Santos,F80.0
+P1424,Paciente 1424,113,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 624",Leste,Pedro Costa,F41.0
+P1425,Paciente 1425,120,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 625",Oeste,Ana Paula,M25.9
+P1426,Paciente 1426,127,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 626",Zona Industrial,Carlos Mendes,F43.1
+P1427,Paciente 1427,134,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 627",Vila Nova,Lucia Ferreira,F80.1
+P1428,Paciente 1428,141,Psicologia,Individual,Semanal,USF Leste,"Rua I, 628",Centro,João Silva,F41.2
+P1429,Paciente 1429,148,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 629",Norte,Maria Santos,M54.1
+P1430,Paciente 1430,155,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 630",Sul,Pedro Costa,F41.1
+P1431,Paciente 1431,162,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 631",Leste,Ana Paula,M54.0
+P1432,Paciente 1432,169,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 632",Oeste,Carlos Mendes,F32.9
+P1433,Paciente 1433,176,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 633",Zona Industrial,Lucia Ferreira,F80.0
+P1434,Paciente 1434,183,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 634",Vila Nova,João Silva,F41.0
+P1435,Paciente 1435,190,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 635",Centro,Maria Santos,M25.9
+P1436,Paciente 1436,197,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 636",Norte,Pedro Costa,F43.1
+P1437,Paciente 1437,204,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 637",Sul,Ana Paula,F80.1
+P1438,Paciente 1438,211,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 638",Leste,Carlos Mendes,F41.2
+P1439,Paciente 1439,218,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 639",Oeste,Lucia Ferreira,M54.1
+P1440,Paciente 1440,225,Psicologia,Individual,Semanal,USF Centro,"Rua A, 640",Zona Industrial,João Silva,F41.1
+P1441,Paciente 1441,232,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 641",Vila Nova,Maria Santos,M54.0
+P1442,Paciente 1442,239,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 642",Centro,Pedro Costa,F32.9
+P1443,Paciente 1443,246,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 643",Norte,Ana Paula,F80.0
+P1444,Paciente 1444,253,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 644",Sul,Carlos Mendes,F41.0
+P1445,Paciente 1445,260,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 645",Leste,Lucia Ferreira,M25.9
+P1446,Paciente 1446,267,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 646",Oeste,João Silva,F43.1
+P1447,Paciente 1447,274,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 647",Zona Industrial,Maria Santos,F80.1
+P1448,Paciente 1448,281,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 648",Vila Nova,Pedro Costa,F41.2
+P1449,Paciente 1449,288,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 649",Centro,Ana Paula,M54.1
+P1450,Paciente 1450,295,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 650",Norte,Carlos Mendes,F41.1
+P1451,Paciente 1451,302,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 651",Sul,Lucia Ferreira,M54.0
+P1452,Paciente 1452,309,Psicologia,Individual,Semanal,USF Sul,"Rua M, 652",Leste,João Silva,F32.9
+P1453,Paciente 1453,316,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 653",Oeste,Maria Santos,F80.0
+P1454,Paciente 1454,323,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 654",Zona Industrial,Pedro Costa,F41.0
+P1455,Paciente 1455,330,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 655",Vila Nova,Ana Paula,M25.9
+P1456,Paciente 1456,337,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 656",Centro,Carlos Mendes,F43.1
+P1457,Paciente 1457,344,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 657",Norte,Lucia Ferreira,F80.1
+P1458,Paciente 1458,351,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 658",Sul,João Silva,F41.2
+P1459,Paciente 1459,358,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 659",Leste,Maria Santos,M54.1
+P1460,Paciente 1460,0,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 660",Oeste,Pedro Costa,F41.1
+P1461,Paciente 1461,7,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 661",Zona Industrial,Ana Paula,M54.0
+P1462,Paciente 1462,14,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 662",Vila Nova,Carlos Mendes,F32.9
+P1463,Paciente 1463,21,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 663",Centro,Lucia Ferreira,F80.0
+P1464,Paciente 1464,28,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 664",Norte,João Silva,F41.0
+P1465,Paciente 1465,35,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 665",Sul,Maria Santos,M25.9
+P1466,Paciente 1466,42,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 666",Leste,Pedro Costa,F43.1
+P1467,Paciente 1467,49,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 667",Oeste,Ana Paula,F80.1
+P1468,Paciente 1468,56,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 668",Zona Industrial,Carlos Mendes,F41.2
+P1469,Paciente 1469,63,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 669",Vila Nova,Lucia Ferreira,M54.1
+P1470,Paciente 1470,70,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 670",Centro,João Silva,F41.1
+P1471,Paciente 1471,77,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 671",Norte,Maria Santos,M54.0
+P1472,Paciente 1472,84,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 672",Sul,Pedro Costa,F32.9
+P1473,Paciente 1473,91,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 673",Leste,Ana Paula,F80.0
+P1474,Paciente 1474,98,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 674",Oeste,Carlos Mendes,F41.0
+P1475,Paciente 1475,105,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 675",Zona Industrial,Lucia Ferreira,M25.9
+P1476,Paciente 1476,112,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 676",Vila Nova,João Silva,F43.1
+P1477,Paciente 1477,119,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 677",Centro,Maria Santos,F80.1
+P1478,Paciente 1478,126,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 678",Norte,Pedro Costa,F41.2
+P1479,Paciente 1479,133,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 679",Sul,Ana Paula,M54.1
+P1480,Paciente 1480,140,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 680",Leste,Carlos Mendes,F41.1
+P1481,Paciente 1481,147,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 681",Oeste,Lucia Ferreira,M54.0
+P1482,Paciente 1482,154,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 682",Zona Industrial,João Silva,F32.9
+P1483,Paciente 1483,161,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 683",Vila Nova,Maria Santos,F80.0
+P1484,Paciente 1484,168,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 684",Centro,Pedro Costa,F41.0
+P1485,Paciente 1485,175,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 685",Norte,Ana Paula,M25.9
+P1486,Paciente 1486,182,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 686",Sul,Carlos Mendes,F43.1
+P1487,Paciente 1487,189,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 687",Leste,Lucia Ferreira,F80.1
+P1488,Paciente 1488,196,Psicologia,Individual,Semanal,USF Leste,"Rua I, 688",Oeste,João Silva,F41.2
+P1489,Paciente 1489,203,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 689",Zona Industrial,Maria Santos,M54.1
+P1490,Paciente 1490,210,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 690",Vila Nova,Pedro Costa,F41.1
+P1491,Paciente 1491,217,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 691",Centro,Ana Paula,M54.0
+P1492,Paciente 1492,224,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 692",Norte,Carlos Mendes,F32.9
+P1493,Paciente 1493,231,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 693",Sul,Lucia Ferreira,F80.0
+P1494,Paciente 1494,238,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 694",Leste,João Silva,F41.0
+P1495,Paciente 1495,245,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 695",Oeste,Maria Santos,M25.9
+P1496,Paciente 1496,252,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 696",Zona Industrial,Pedro Costa,F43.1
+P1497,Paciente 1497,259,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 697",Vila Nova,Ana Paula,F80.1
+P1498,Paciente 1498,266,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 698",Centro,Carlos Mendes,F41.2
+P1499,Paciente 1499,273,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 699",Norte,Lucia Ferreira,M54.1
+P1500,Paciente 1500,280,Psicologia,Individual,Semanal,USF Centro,"Rua A, 700",Sul,João Silva,F41.1
+P1501,Paciente 1501,287,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 701",Leste,Maria Santos,M54.0
+P1502,Paciente 1502,294,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 702",Oeste,Pedro Costa,F32.9
+P1503,Paciente 1503,301,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 703",Zona Industrial,Ana Paula,F80.0
+P1504,Paciente 1504,308,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 704",Vila Nova,Carlos Mendes,F41.0
+P1505,Paciente 1505,315,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 705",Centro,Lucia Ferreira,M25.9
+P1506,Paciente 1506,322,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 706",Norte,João Silva,F43.1
+P1507,Paciente 1507,329,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 707",Sul,Maria Santos,F80.1
+P1508,Paciente 1508,336,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 708",Leste,Pedro Costa,F41.2
+P1509,Paciente 1509,343,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 709",Oeste,Ana Paula,M54.1
+P1510,Paciente 1510,350,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 710",Zona Industrial,Carlos Mendes,F41.1
+P1511,Paciente 1511,357,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 711",Vila Nova,Lucia Ferreira,M54.0
+P1512,Paciente 1512,364,Psicologia,Individual,Semanal,USF Sul,"Rua M, 712",Centro,João Silva,F32.9
+P1513,Paciente 1513,6,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 713",Norte,Maria Santos,F80.0
+P1514,Paciente 1514,13,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 714",Sul,Pedro Costa,F41.0
+P1515,Paciente 1515,20,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 715",Leste,Ana Paula,M25.9
+P1516,Paciente 1516,27,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 716",Oeste,Carlos Mendes,F43.1
+P1517,Paciente 1517,34,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 717",Zona Industrial,Lucia Ferreira,F80.1
+P1518,Paciente 1518,41,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 718",Vila Nova,João Silva,F41.2
+P1519,Paciente 1519,48,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 719",Centro,Maria Santos,M54.1
+P1520,Paciente 1520,55,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 720",Norte,Pedro Costa,F41.1
+P1521,Paciente 1521,62,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 721",Sul,Ana Paula,M54.0
+P1522,Paciente 1522,69,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 722",Leste,Carlos Mendes,F32.9
+P1523,Paciente 1523,76,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 723",Oeste,Lucia Ferreira,F80.0
+P1524,Paciente 1524,83,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 724",Zona Industrial,João Silva,F41.0
+P1525,Paciente 1525,90,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 725",Vila Nova,Maria Santos,M25.9
+P1526,Paciente 1526,97,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 726",Centro,Pedro Costa,F43.1
+P1527,Paciente 1527,104,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 727",Norte,Ana Paula,F80.1
+P1528,Paciente 1528,111,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 728",Sul,Carlos Mendes,F41.2
+P1529,Paciente 1529,118,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 729",Leste,Lucia Ferreira,M54.1
+P1530,Paciente 1530,125,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 730",Oeste,João Silva,F41.1
+P1531,Paciente 1531,132,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 731",Zona Industrial,Maria Santos,M54.0
+P1532,Paciente 1532,139,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 732",Vila Nova,Pedro Costa,F32.9
+P1533,Paciente 1533,146,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 733",Centro,Ana Paula,F80.0
+P1534,Paciente 1534,153,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 734",Norte,Carlos Mendes,F41.0
+P1535,Paciente 1535,160,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 735",Sul,Lucia Ferreira,M25.9
+P1536,Paciente 1536,167,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 736",Leste,João Silva,F43.1
+P1537,Paciente 1537,174,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 737",Oeste,Maria Santos,F80.1
+P1538,Paciente 1538,181,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 738",Zona Industrial,Pedro Costa,F41.2
+P1539,Paciente 1539,188,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 739",Vila Nova,Ana Paula,M54.1
+P1540,Paciente 1540,195,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 740",Centro,Carlos Mendes,F41.1
+P1541,Paciente 1541,202,Fisioterapia,Dupla,Mensal,USF Norte,"Rua B, 741",Norte,Lucia Ferreira,M54.0
+P1542,Paciente 1542,209,Fonoaudiologia,Individual,Semanal,USF Sul,"Rua C, 742",Sul,João Silva,F32.9
+P1543,Paciente 1543,216,Terapia Ocupacional,Grupo,Quinzenal,USF Leste,"Rua D, 743",Leste,Maria Santos,F80.0
+P1544,Paciente 1544,223,Psicologia,Dupla,Mensal,USF Oeste,"Rua E, 744",Oeste,Pedro Costa,F41.0
+P1545,Paciente 1545,230,Fisioterapia,Individual,Semanal,USF Centro,"Rua F, 745",Zona Industrial,Ana Paula,M25.9
+P1546,Paciente 1546,237,Fonoaudiologia,Grupo,Quinzenal,USF Norte,"Rua G, 746",Vila Nova,Carlos Mendes,F43.1
+P1547,Paciente 1547,244,Terapia Ocupacional,Dupla,Mensal,USF Sul,"Rua H, 747",Centro,Lucia Ferreira,F80.1
+P1548,Paciente 1548,251,Psicologia,Individual,Semanal,USF Leste,"Rua I, 748",Norte,João Silva,F41.2
+P1549,Paciente 1549,258,Fisioterapia,Grupo,Quinzenal,USF Oeste,"Rua J, 749",Sul,Maria Santos,M54.1
+P1550,Paciente 1550,265,Fonoaudiologia,Dupla,Mensal,USF Centro,"Rua K, 750",Leste,Pedro Costa,F41.1
+P1551,Paciente 1551,272,Terapia Ocupacional,Individual,Semanal,USF Norte,"Rua L, 751",Oeste,Ana Paula,M54.0
+P1552,Paciente 1552,279,Psicologia,Grupo,Quinzenal,USF Sul,"Rua M, 752",Zona Industrial,Carlos Mendes,F32.9
+P1553,Paciente 1553,286,Fisioterapia,Dupla,Mensal,USF Leste,"Rua N, 753",Vila Nova,Lucia Ferreira,F80.0
+P1554,Paciente 1554,293,Fonoaudiologia,Individual,Semanal,USF Oeste,"Rua O, 754",Centro,João Silva,F41.0
+P1555,Paciente 1555,300,Terapia Ocupacional,Grupo,Quinzenal,USF Centro,"Rua P, 755",Norte,Maria Santos,M25.9
+P1556,Paciente 1556,307,Psicologia,Dupla,Mensal,USF Norte,"Rua Q, 756",Sul,Pedro Costa,F43.1
+P1557,Paciente 1557,314,Fisioterapia,Individual,Semanal,USF Sul,"Rua R, 757",Leste,Ana Paula,F80.1
+P1558,Paciente 1558,321,Fonoaudiologia,Grupo,Quinzenal,USF Leste,"Rua S, 758",Oeste,Carlos Mendes,F41.2
+P1559,Paciente 1559,328,Terapia Ocupacional,Dupla,Mensal,USF Oeste,"Rua T, 759",Zona Industrial,Lucia Ferreira,M54.1
+P1560,Paciente 1560,335,Psicologia,Individual,Semanal,USF Centro,"Rua A, 760",Vila Nova,João Silva,F41.1
+P1561,Paciente 1561,342,Fisioterapia,Grupo,Quinzenal,USF Norte,"Rua B, 761",Centro,Maria Santos,M54.0
+P1562,Paciente 1562,349,Fonoaudiologia,Dupla,Mensal,USF Sul,"Rua C, 762",Norte,Pedro Costa,F32.9
+P1563,Paciente 1563,356,Terapia Ocupacional,Individual,Semanal,USF Leste,"Rua D, 763",Sul,Ana Paula,F80.0
+P1564,Paciente 1564,363,Psicologia,Grupo,Quinzenal,USF Oeste,"Rua E, 764",Leste,Carlos Mendes,F41.0
+P1565,Paciente 1565,5,Fisioterapia,Dupla,Mensal,USF Centro,"Rua F, 765",Oeste,Lucia Ferreira,M25.9
+P1566,Paciente 1566,12,Fonoaudiologia,Individual,Semanal,USF Norte,"Rua G, 766",Zona Industrial,João Silva,F43.1
+P1567,Paciente 1567,19,Terapia Ocupacional,Grupo,Quinzenal,USF Sul,"Rua H, 767",Vila Nova,Maria Santos,F80.1
+P1568,Paciente 1568,26,Psicologia,Dupla,Mensal,USF Leste,"Rua I, 768",Centro,Pedro Costa,F41.2
+P1569,Paciente 1569,33,Fisioterapia,Individual,Semanal,USF Oeste,"Rua J, 769",Norte,Ana Paula,M54.1
+P1570,Paciente 1570,40,Fonoaudiologia,Grupo,Quinzenal,USF Centro,"Rua K, 770",Sul,Carlos Mendes,F41.1
+P1571,Paciente 1571,47,Terapia Ocupacional,Dupla,Mensal,USF Norte,"Rua L, 771",Leste,Lucia Ferreira,M54.0
+P1572,Paciente 1572,54,Psicologia,Individual,Semanal,USF Sul,"Rua M, 772",Oeste,João Silva,F32.9
+P1573,Paciente 1573,61,Fisioterapia,Grupo,Quinzenal,USF Leste,"Rua N, 773",Zona Industrial,Maria Santos,F80.0
+P1574,Paciente 1574,68,Fonoaudiologia,Dupla,Mensal,USF Oeste,"Rua O, 774",Vila Nova,Pedro Costa,F41.0
+P1575,Paciente 1575,75,Terapia Ocupacional,Individual,Semanal,USF Centro,"Rua P, 775",Centro,Ana Paula,M25.9
+P1576,Paciente 1576,82,Psicologia,Grupo,Quinzenal,USF Norte,"Rua Q, 776",Norte,Carlos Mendes,F43.1
+P1577,Paciente 1577,89,Fisioterapia,Dupla,Mensal,USF Sul,"Rua R, 777",Sul,Lucia Ferreira,F80.1
+P1578,Paciente 1578,96,Fonoaudiologia,Individual,Semanal,USF Leste,"Rua S, 778",Leste,João Silva,F41.2
+P1579,Paciente 1579,103,Terapia Ocupacional,Grupo,Quinzenal,USF Oeste,"Rua T, 779",Oeste,Maria Santos,M54.1
+P1580,Paciente 1580,110,Psicologia,Dupla,Mensal,USF Centro,"Rua A, 780",Zona Industrial,Pedro Costa,F41.1
+P1581,Paciente 1581,117,Fisioterapia,Individual,Semanal,USF Norte,"Rua B, 781",Vila Nova,Ana Paula,M54.0
+P1582,Paciente 1582,124,Fonoaudiologia,Grupo,Quinzenal,USF Sul,"Rua C, 782",Centro,Carlos Mendes,F32.9
+P1583,Paciente 1583,131,Terapia Ocupacional,Dupla,Mensal,USF Leste,"Rua D, 783",Norte,Lucia Ferreira,F80.0
+P1584,Paciente 1584,138,Psicologia,Individual,Semanal,USF Oeste,"Rua E, 784",Sul,João Silva,F41.0
+P1585,Paciente 1585,145,Fisioterapia,Grupo,Quinzenal,USF Centro,"Rua F, 785",Leste,Maria Santos,M25.9
+P1586,Paciente 1586,152,Fonoaudiologia,Dupla,Mensal,USF Norte,"Rua G, 786",Oeste,Pedro Costa,F43.1
+P1587,Paciente 1587,159,Terapia Ocupacional,Individual,Semanal,USF Sul,"Rua H, 787",Zona Industrial,Ana Paula,F80.1
+P1588,Paciente 1588,166,Psicologia,Grupo,Quinzenal,USF Leste,"Rua I, 788",Vila Nova,Carlos Mendes,F41.2
+P1589,Paciente 1589,173,Fisioterapia,Dupla,Mensal,USF Oeste,"Rua J, 789",Centro,Lucia Ferreira,M54.1
+P1590,Paciente 1590,180,Fonoaudiologia,Individual,Semanal,USF Centro,"Rua K, 790",Norte,João Silva,F41.1
+P1591,Paciente 1591,187,Terapia Ocupacional,Grupo,Quinzenal,USF Norte,"Rua L, 791",Sul,Maria Santos,M54.0
+P1592,Paciente 1592,194,Psicologia,Dupla,Mensal,USF Sul,"Rua M, 792",Leste,Pedro Costa,F32.9
+P1593,Paciente 1593,201,Fisioterapia,Individual,Semanal,USF Leste,"Rua N, 793",Oeste,Ana Paula,F80.0
+P1594,Paciente 1594,208,Fonoaudiologia,Grupo,Quinzenal,USF Oeste,"Rua O, 794",Zona Industrial,Carlos Mendes,F41.0
+P1595,Paciente 1595,215,Terapia Ocupacional,Dupla,Mensal,USF Centro,"Rua P, 795",Vila Nova,Lucia Ferreira,M25.9
+P1596,Paciente 1596,222,Psicologia,Individual,Semanal,USF Norte,"Rua Q, 796",Centro,João Silva,F43.1
+P1597,Paciente 1597,229,Fisioterapia,Grupo,Quinzenal,USF Sul,"Rua R, 797",Norte,Maria Santos,F80.1
+P1598,Paciente 1598,236,Fonoaudiologia,Dupla,Mensal,USF Leste,"Rua S, 798",Sul,Pedro Costa,F41.2
+P1599,Paciente 1599,243,Terapia Ocupacional,Individual,Semanal,USF Oeste,"Rua T, 799",Leste,Ana Paula,M54.1
+P1600,Paciente 1600,250,Psicologia,Grupo,Quinzenal,USF Centro,"Rua A, 800",Oeste,Carlos Mendes,F41.1

@@ -1,0 +1,202 @@
+import { createClient } from "npm:@supabase/supabase-js@2.81.0";
+import * as XLSX from "npm:xlsx@0.18.5";
+
+const corsHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
+};
+
+Deno.serve(async (req: Request) => {
+  if (req.method === "OPTIONS") {
+    return new Response(null, { headers: corsHeaders });
+  }
+
+  try {
+    const authHeader = req.headers.get("Authorization");
+    if (!authHeader) {
+      return new Response(
+        JSON.stringify({ success: false, error: "Unauthorized" }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    const supabaseUrl = Deno.env.get("SUPABASE_URL");
+    const supabaseServiceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+
+    if (!supabaseUrl || !supabaseServiceKey) {
+      throw new Error("Missing Supabase config");
+    }
+
+    const supabase = createClient(supabaseUrl, supabaseServiceKey);
+
+    const formData = await req.formData();
+    const file = formData.get("file") as File;
+
+    if (!file) {
+      return new Response(
+        JSON.stringify({ success: false, error: "No file provided" }),
+        { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    console.log(`Processing attendance file: ${file.name}`);
+
+    const arrayBuffer = await file.arrayBuffer();
+    const workbook = XLSX.read(new Uint8Array(arrayBuffer), { type: 'array' });
+
+    console.log(`Available sheets: ${workbook.SheetNames.join(", ")}`);
+
+    // Mapear dias da semana
+    const diasSemana = ['SEGUNDA', 'TERÇA', 'QUARTA', 'QUINTA', 'SEXTA', 'SÁBADO', 'DOMINGO', 
+                        'SEG', 'TER', 'QUA', 'QUI', 'SEX', 'SAB', 'DOM',
+                        'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY'];
+
+    // Coletar todos os prontuários que COMPARECERAM (presentes em alguma aba)
+    const prontuariosPresentes = new Set<string>();
+    let totalSheetsProcessed = 0;
+
+    for (const sheetName of workbook.SheetNames) {
+      const upperSheetName = sheetName.toUpperCase();
+      
+      // Verificar se é uma aba de dia da semana
+      const isDiaSheet = diasSemana.some(dia => upperSheetName.includes(dia));
+      
+      if (!isDiaSheet) {
+        console.log(`Skipping sheet: ${sheetName} (not a weekday)`);
+        continue;
+      }
+
+      totalSheetsProcessed++;
+      console.log(`Processing sheet: ${sheetName}`);
+
+      const worksheet = workbook.Sheets[sheetName];
+      const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+
+      if (jsonData.length < 2) {
+        console.log(`Sheet ${sheetName} is empty, skipping`);
+        continue;
+      }
+
+      // Processar headers
+      const headers = (jsonData[0] as any[]).map((h: any) => 
+        String(h || "").toUpperCase().trim()
+      );
+
+      console.log(`Sheet ${sheetName} headers: ${headers.join(", ")}`);
+
+      // Processar linhas
+      for (let i = 1; i < jsonData.length; i++) {
+        const rowData = jsonData[i] as any[];
+        if (!rowData || rowData.length === 0) continue;
+
+        const row: any = {};
+        headers.forEach((header, idx) => {
+          row[header] = rowData[idx] !== undefined && rowData[idx] !== null ? String(rowData[idx]).trim() : "";
+        });
+
+        // Extrair prontuário
+        const prontuarioRaw = row["PRONTUÁRIO"] || row["PRONTUARIO"] || row["PRONT"] || "";
+        const prontuario = String(prontuarioRaw).toUpperCase().trim();
+
+        if (prontuario && prontuario.length > 0) {
+          prontuariosPresentes.add(prontuario);
+        }
+      }
+    }
+
+    console.log(`Total sheets processed: ${totalSheetsProcessed}`);
+    console.log(`Total patients present: ${prontuariosPresentes.size}`);
+
+    // Buscar TODOS os pacientes do banco
+    const { data: allPatients, error: fetchError } = await supabase
+      .from("patients")
+      .select("id, prontuario, name, days_since_last_visit");
+
+    if (fetchError) {
+      throw new Error(`Error fetching patients: ${fetchError.message}`);
+    }
+
+    if (!allPatients || allPatients.length === 0) {
+      return new Response(
+        JSON.stringify({
+          success: true,
+          message: "Nenhum paciente no banco de dados para atualizar",
+          processed: 0,
+          updated: 0,
+        }),
+        { headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    console.log(`Total patients in database: ${allPatients.length}`);
+
+    // Atualizar pacientes
+    let updated = 0;
+    let resetados = 0;
+    let incrementados = 0;
+    const updateErrors: string[] = [];
+
+    for (const patient of allPatients) {
+      const prontuario = patient.prontuario.toUpperCase().trim();
+      
+      if (prontuariosPresentes.has(prontuario)) {
+        // Paciente COMPARECEU - resetar faltas para 0
+        const { error: updateError } = await supabase
+          .from("patients")
+          .update({ days_since_last_visit: 0 })
+          .eq("id", patient.id);
+
+        if (updateError) {
+          updateErrors.push(`${prontuario}: ${updateError.message}`);
+        } else {
+          updated++;
+          resetados++;
+        }
+      } else {
+        // Paciente FALTOU - incrementar faltas
+        const novasFaltas = (patient.days_since_last_visit || 0) + 1;
+        
+        const { error: updateError } = await supabase
+          .from("patients")
+          .update({ days_since_last_visit: novasFaltas })
+          .eq("id", patient.id);
+
+        if (updateError) {
+          updateErrors.push(`${prontuario}: ${updateError.message}`);
+        } else {
+          updated++;
+          incrementados++;
+        }
+      }
+    }
+
+    console.log(`Update completed. Reset: ${resetados}, Incremented: ${incrementados}`);
+    if (updateErrors.length > 0) {
+      console.log(`Errors: ${updateErrors.slice(0, 20).join(", ")}`);
+    }
+
+    return new Response(
+      JSON.stringify({
+        success: true,
+        message: `Presença processada com sucesso!`,
+        processed: allPatients.length,
+        updated,
+        resetados,
+        incrementados,
+        sheets_processed: totalSheetsProcessed,
+        patients_present: prontuariosPresentes.size,
+        errors: updateErrors.length > 0 ? updateErrors.slice(0, 50) : undefined,
+      }),
+      { headers: { ...corsHeaders, "Content-Type": "application/json" } }
+    );
+  } catch (error) {
+    console.error("Error:", error);
+    return new Response(
+      JSON.stringify({
+        success: false,
+        error: error instanceof Error ? error.message : "Unknown error",
+      }),
+      { status: 500, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+    );
+  }
+});
